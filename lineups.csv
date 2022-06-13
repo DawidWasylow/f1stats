@@ -1,0 +1,3260 @@
+id,team,year,driver_id,total_races
+1,"Alfa Romeo",1950,1,7
+2,"Alfa Romeo",1950,2,6
+3,Talbot-Lago,1950,3,7
+4,"Alfa Romeo",1950,4,6
+5,Ferrari,1950,5,5
+6,Ferrari,1950,6,3
+7,Talbot-Lago,1950,7,3
+8,Talbot-Lago,1950,8,6
+9,Alta,1950,9,2
+10,Maserati,1950,10,2
+11,Talbot-Lago,1950,11,2
+12,Talbot-Lago,1950,12,3
+13,Talbot-Lago,1950,13,6
+14,Talbot-Lago,1950,14,4
+15,"Alfa Romeo",1950,15,1
+16,ERA,1950,16,2
+17,ERA,1950,17,3
+18,Maserati,1950,18,2
+19,Maserati,1950,19,1
+20,Maserati,1950,20,1
+21,Alta,1950,21,1
+22,Maserati,1950,22,4
+23,Maserati,1950,23,2
+24,Maserati,1950,24,4
+25,Maserati,1950,25,5
+26,Talbot-Lago,1950,26,2
+27,ERA,1950,27,1
+28,ERA,1950,28,1
+29,ERA,1950,29,1
+30,"Kurtis Kraft Offenhauser",1950,30,1
+31,"Deidt Offenhauser",1950,31,1
+32,"Deidt Offenhauser",1950,32,1
+33,"Kurtis Kraft Offenhauser",1950,33,1
+34,"Kurtis Kraft Offenhauser",1950,34,1
+35,"Kurtis Kraft Offenhauser",1950,35,1
+36,"Moore Offenhauser",1950,36,1
+37,"Kurtis Kraft Offenhauser",1950,37,1
+38,"Lesovsky Offenhauser",1950,38,1
+39,"Nichels Offenhauser",1950,39,1
+40,"Kurtis Kraft Offenhauser",1950,40,1
+41,"Marchese Offenhauser",1950,41,1
+42,"Stevens Offenhauser",1950,42,1
+43,"Kurtis Kraft Offenhauser",1950,43,1
+44,"Kurtis Kraft Offenhauser",1950,44,1
+45,"Lesovsky Offenhauser",1950,45,1
+46,"Langley Offenhauser",1950,46,1
+47,"Ewing Offenhauser",1950,47,1
+48,"Kurtis Kraft Offenhauser",1950,48,1
+49,"Kurtis Kraft Offenhauser",1950,49,1
+50,"Maserati Offenhauser",1950,50,1
+51,"Kurtis Kraft Offenhauser",1950,51,1
+52,"Rae Offenhauser",1950,52,1
+53,"Olson Offenhauser",1950,53,1
+54,"Wetteroth Offerhauser",1950,54,1
+55,"Maserati Offenhauser",1950,55,1
+56,"Maserati Offenhauser",1950,56,1
+57,"Snowberger Offenhauser",1950,57,1
+58,"Adams Offenhauser",1950,58,1
+59,"Kurtis Kraft Offenhauser",1950,56,1
+60,"Kurtis Kraft Cummins",1950,59,1
+61,"Kurtis Kraft Offenhauser",1950,60,1
+62,"Deidt Offenhauser",1950,35,1
+63,"Watson Offenhauser",1950,61,1
+64,"Kurtis Kraft Offenhauser",1950,62,1
+65,Ferrari,1950,12,2
+66,Maserati,1950,63,2
+67,Simca-Gordini,1950,64,3
+68,"Cooper JAP",1950,65,1
+69,Simca-Gordini,1950,66,2
+70,Maserati,1950,67,3
+71,Ferrari,1950,68,1
+72,Ferrari,1950,69,2
+73,Talbot-Lago,1950,70,1
+74,"Alfa Romeo",1950,71,1
+75,"Ferrari Jaguar",1950,72,1
+76,Talbot-Lago,1950,73,1
+77,"Maserati Milano",1950,74,1
+78,"Alfa Romeo",1950,75,1
+79,Maserati,1950,76,1
+80,Talbot-Lago,1950,77,1
+81,"Maserati Milano",1950,78,2
+82,Maserati,1950,15,1
+83,Maserati,1950,79,1
+84,Talbot-Lago,1950,65,1
+85,"Alfa Romeo",1951,1,8
+86,Ferrari,1951,63,5
+87,"Alfa Romeo",1951,4,8
+88,Ferrari,1951,5,8
+89,"Alfa Romeo",1951,78,4
+90,"Alfa Romeo",1951,24,3
+91,Talbot-Lago,1951,3,7
+92,Talbot-Lago,1951,13,5
+93,Simca-Gordini,1951,64,4
+94,"Maserati Milano",1951,80,1
+95,Ferrari,1951,6,7
+96,Simca-Gordini,1951,81,4
+97,Talbot-Lago,1951,8,7
+98,Ferrari,1951,71,5
+99,Simca-Gordini,1951,66,4
+100,Talbot-Lago,1951,82,1
+101,Talbot-Lago,1951,14,6
+102,Talbot-Lago,1951,25,6
+103,"Maserati OSCA",1951,22,1
+104,Talbot-Lago,1951,83,1
+105,Talbot-Lago,1951,7,3
+106,"Alfa Romeo",1951,75,4
+107,BRM,1951,15,1
+108,BRM,1951,27,1
+109,ERA,1951,20,1
+110,"Thin Wall Ferrari",1951,69,1
+111,ERA,1951,16,1
+112,Talbot-Lago,1951,84,2
+113,Alta,1951,21,1
+114,Maserati,1951,85,1
+115,Maserati,1951,23,1
+116,Maserati,1951,86,1
+117,"Kurtis Kraft Offenhauser",1951,36,1
+118,"Kurtis Kraft Offenhauser",1951,87,1
+119,"Kurtis Kraft Offenhauser",1951,88,1
+120,"Kurtis Kraft Offenhauser",1951,44,1
+121,"Sherman Offenhauser",1951,89,1
+122,"Schroeder Offenhauser",1951,90,1
+123,"Moore Offenhauser",1951,55,1
+124,"Kurtis Kraft Offenhauser",1951,91,1
+125,"Deidt Offenhauser",1951,42,1
+126,"Deidt Offenhauser",1951,35,1
+127,"Kurtis Kraft Novi",1951,92,1
+128,"Kurtis Kraft Offenhauser",1951,93,1
+129,"Kurtis Kraft Offenhauser",1951,60,1
+130,"Kurtis Kraft Offenhauser",1951,57,1
+131,"Deidt Offenhauser",1951,32,1
+132,"Kuzma Offenhauser",1951,37,1
+133,"Pawl Offenhauser",1951,47,1
+134,"Kurtis Kraft Offenhauser",1951,56,1
+135,"Kurtis Kraft Offenhauser",1951,94,1
+136,"Hall Offenhauser",1951,95,1
+137,"Marchese Offenhauser",1951,96,1
+138,"Kurtis Kraft Offenhauser",1951,30,1
+139,"Kurtis Kraft Offenhauser",1951,33,1
+140,"Kurtis Kraft Offenhauser",1951,45,1
+141,"Schroeder Offenhauser",1951,62,1
+142,"Kurtis Kraft Novi",1951,97,1
+143,"Kurtis Kraft Offenhauser",1951,49,1
+144,"Bromme Offenhauser",1951,98,1
+145,"Kurtis Kraft Offenhauser",1951,99,1
+146,"Trevis Offenhauser",1951,100,1
+147,"Lesovsky Offenhauser",1951,38,1
+148,"Deidt Offenhauser",1951,43,1
+149,Maserati-Offenhauser,1951,48,1
+150,"Watson Offenhauser",1951,101,1
+151,OSCA,1951,67,1
+152,Talbot-Lago,1951,102,2
+153,Ferrari,1951,69,3
+154,Ferrari,1951,103,1
+155,"Alfa Romeo",1951,2,2
+156,"Thin Wall Ferrari",1951,15,1
+157,Talbot-Lago,1951,11,1
+158,Talbot-Lago,1951,70,2
+159,Simca-Gordini,1951,104,1
+160,Maserati,1951,65,2
+161,"Maserati Milano",1951,105,1
+162,Maserati,1951,24,2
+163,Ferrari,1951,106,2
+164,"Alfa Romeo",1951,76,1
+165,Maserati,1951,10,1
+166,Maserati,1951,25,1
+167,"HWM Alta",1951,107,1
+168,Talbot-Lago,1951,73,1
+169,"HWM Alta",1951,108,1
+170,Talbot-Lago,1951,63,1
+171,Veritas,1951,109,1
+172,Ferrari,1952,5,7
+173,Ferrari,1952,4,8
+174,Gordini,1952,64,7
+175,"Cooper Bristol",1952,110,5
+176,"HWM Alta",1952,111,2
+177,"Cooper Bristol",1952,112,4
+178,Ferrari,1952,113,2
+179,Gordini,1952,8,1
+180,"Cooper Bristol",1952,114,4
+181,Gordini,1952,22,4
+182,"HWM Alta",1952,115,5
+183,"HWM Alta",1952,116,1
+184,Veritas,1952,117,1
+185,Simca-Gordini,1952,118,1
+186,"HWM Alta",1952,119,3
+187,"Aston Butterworth",1952,120,1
+188,Gordini,1952,121,6
+189,Ferrari,1952,71,6
+190,"Frazer Nash",1952,122,3
+191,Ferrari,1952,3,4
+192,"HWM Alta",1952,123,4
+193,"ERA Bristol",1952,107,3
+194,Ferrari,1952,6,2
+195,Gordini,1952,66,5
+196,"HWM Alta",1952,84,2
+197,Maserati,1952,103,2
+198,Maserati,1952,124,2
+199,"HWM Alta",1952,125,1
+200,"Connaught Lea Francis",1952,126,2
+201,Simca-Gordini,1952,111,1
+202,Maserati,1952,127,4
+203,"Connaught Lea Francis",1952,128,2
+204,"Connaught Lea Francis",1952,129,1
+205,"Cooper Bristol",1952,15,1
+206,Ferrari,1952,130,1
+207,Ferrari,1952,69,1
+208,Alta,1952,131,1
+209,Ferrari,1952,106,5
+210,Simca-Gordini,1952,8,2
+211,"Connaught Lea Francis",1952,132,2
+212,"Maserati Plate",1952,65,4
+213,"Maserati Plate",1952,24,3
+214,"Frazer Nash Bristol",1952,133,1
+215,"Cooper Bristol",1952,23,1
+216,Ferrari,1952,109,3
+217,Maserati,1952,134,3
+218,"Kuzma Offenhauser",1952,45,1
+219,"Kurtis Kraft Offenhauser",1952,54,1
+220,"Kurtis Kraft Offenhauser",1952,60,1
+221,"Lesovsky Offenhauser",1952,42,1
+222,"Kurtis Kraft Offenhauser",1952,135,1
+223,"Kurtis Kraft Offenhauser",1952,136,1
+224,"Kurtis Kraft Offenhauser",1952,137,1
+225,"Kurtis Kraft Offenhauser",1952,38,1
+226,"Kurtis Kraft Offenhauser",1952,99,1
+227,"Kurtis Kraft Offenhauser",1952,30,1
+228,"Kurtis Kraft Offenhauser",1952,44,1
+229,"Watson Offenhauser",1952,138,1
+230,"Kurtis Kraft Offenhauser",1952,101,1
+231,"Stevens Offenhauser",1952,57,1
+232,"Sherman Offenhauser",1952,139,1
+233,"Trevis Offenhauser",1952,140,1
+234,"Kurtis Kraft Offenhauser",1952,100,1
+235,"Kurtis Kraft Offenhauser",1952,96,1
+236,"Lesovsky Offenhauser",1952,55,1
+237,"Lesovsky Offenhauser",1952,88,1
+238,"Kurtis Kraft Offenhauser",1952,48,1
+239,"Bromme Offenhauser",1952,50,1
+240,"Kurtis Kraft Offenhauser",1952,98,1
+241,"Deidt Offenhauser",1952,35,1
+242,"Kurtis Kraft Novi",1952,92,1
+243,"Kurtis Kraft Offenhauser",1952,141,1
+244,"Kurtis Kraft Cummins",1952,56,1
+245,"Kurtis Kraft Offenhauser",1952,46,1
+246,"Kurtis Kraft Offenhauser",1952,142,1
+247,"Kurtis Kraft Novi",1952,97,1
+248,"Stevens Offenhauser",1952,90,1
+249,"Kurtis Kraft Offenhauser",1952,89,1
+250,Maserati,1952,63,1
+251,Maserati,1952,78,2
+252,Ferrari,1952,81,2
+253,"Cooper Bristol",1952,122,1
+254,"Connaught Lea Francis",1952,107,1
+255,Maserati,1952,67,1
+256,OSCA,1952,143,1
+257,Maserati,1952,13,1
+258,"HWM Alta",1952,14,1
+259,Ferrari,1952,74,1
+260,Alta,1952,69,1
+261,Ferrari,1952,144,2
+262,Ferrari,1952,116,1
+263,Veritas,1952,145,1
+264,Veritas,1952,146,2
+265,"AFM BMW",1952,147,1
+266,"HWM Alta",1952,8,1
+267,Veritas,1952,148,1
+268,BMW,1952,149,1
+269,"AFM BMW",1952,150,1
+270,BMW,1952,151,1
+271,Veritas,1952,152,1
+272,BMW,1952,153,1
+273,BMW,1952,154,1
+274,Ferrari,1952,155,1
+275,"Aston Butterworth",1952,156,1
+276,Veritas,1952,76,1
+277,Veritas,1952,157,1
+278,Veritas,1952,158,1
+279,"HWM Alta",1952,107,1
+280,"HWM Alta",1952,108,1
+281,"AFM Kuchen",1952,159,1
+282,Simca-Gordini,1952,160,1
+283,Ferrari,1953,5,9
+284,Ferrari,1953,6,9
+285,Maserati,1953,8,1
+286,Maserati,1953,1,10
+287,Maserati,1953,105,6
+288,Maserati,1953,24,7
+289,Gordini,1953,66,8
+290,Ferrari,1953,110,8
+291,Gordini,1953,65,7
+292,Ferrari,1953,3,7
+293,Gordini,1953,161,1
+294,"HWM Alta",1953,111,2
+295,"Connaught Lea Francis",1953,83,1
+296,"HWM Alta",1953,115,6
+297,Ferrari,1953,4,8
+298,Maserati,1953,63,6
+299,Gordini,1953,121,6
+300,"HWM Alta",1953,123,4
+301,Simca-Gordini,1953,162,1
+302,Veritas,1953,117,1
+303,Maserati,1953,78,8
+304,"Connaught Lea Francis",1953,107,1
+305,"Connaught Lea Francis",1953,132,4
+306,"Connaught Lea Francis",1953,8,4
+307,Gordini,1953,163,3
+308,"Cooper Bristol",1953,122,5
+309,"Connaught Lea Francis",1953,130,5
+310,Maserati,1953,164,1
+311,"Cooper Bristol",1953,165,1
+312,"Cooper Bristol",1953,112,4
+313,Gordini,1953,64,1
+314,Gordini,1953,166,1
+315,Simca-Gordini,1953,167,1
+316,"Cooper Bristol",1953,168,1
+317,"Connaught Lea Francis",1953,22,3
+318,"Cooper Bristol",1953,169,1
+319,"Cooper Alta",1953,69,1
+320,"Connaught Lea Francis",1953,28,1
+321,"HWM Alta",1953,170,1
+322,"Connaught Lea Francis",1953,171,1
+323,"HWM Alta",1953,84,1
+324,"Cooper Bristol",1953,16,2
+325,"Cooper Bristol",1953,133,1
+326,"Kurtis Kraft Offenhauser",1953,100,1
+327,"Kurtis Kraft Offenhauser",1953,135,1
+328,"Kurtis Kraft Offenhauser",1953,60,1
+329,"Kurtis Kraft Offenhauser",1953,42,1
+330,"Kurtis Kraft Offenhauser",1953,56,1
+331,"Kurtis Kraft Offenhauser",1953,39,2
+332,"Kurtis Kraft Offenhauser",1953,44,1
+333,"Kurtis Kraft Offenhauser",1953,172,1
+334,"Kurtis Kraft Offenhauser",1953,54,2
+335,"Kurtis Kraft Offenhauser",1953,140,1
+336,"Stevens Offenhauser",1953,173,1
+337,"Kuzma Offenhauser",1953,35,1
+338,"Kuzma Offenhauser",1953,96,2
+339,"Kuzma Offenhauser",1953,46,1
+340,"Kurtis Kraft Offenhauser",1953,47,1
+341,"Kurtis Kraft Novi",1953,92,1
+342,"Kurtis Kraft Offenhauser",1953,94,1
+343,"Kurtis Kraft Offenhauser",1953,142,1
+344,"Kuzma Offenhauser",1953,88,1
+345,"Schroeder Offenhauser",1953,136,1
+346,"Kurtis Kraft Offenhauser",1953,31,1
+347,"Kurtis Kraft Offenhauser",1953,98,1
+348,"Kurtis Kraft Offenhauser",1953,89,2
+349,"Kurtis Kraft Offenhauser",1953,62,1
+350,"Kurtis Kraft Offenhauser",1953,37,1
+351,"Kurtis Kraft Offenhauser",1953,174,1
+352,"Kurtis Kraft Offenhauser",1953,175,1
+353,"Kurtis Kraft Offenhauser",1953,50,1
+354,"Kurtis Kraft Offenhauser",1953,176,1
+355,"Kurtis Kraft Offenhauser",1953,53,1
+356,"Kuzma Offenhauser",1953,141,1
+357,"Turner Offenhauser",1953,87,1
+358,"Kurtis Kraft Offenhauser",1953,40,1
+359,"Kurtis Kraft Offenhauser",1953,51,1
+360,"Kurtis Kraft Offenhauser",1953,96,1
+361,"Lesovsky Offenhauser",1953,42,1
+362,"Kurtis Kraft Offenhauser",1953,30,1
+363,"Watson Offenhauser",1953,177,1
+364,"Kurtis Kraft Offenhauser",1953,46,1
+365,"Kurtis Kraft Offenhauser",1953,178,1
+366,"Bromme Offenhauser",1953,142,1
+367,"Del Roy Offenhauser",1953,176,1
+368,"Stevens Offenhauser",1953,89,1
+369,Maserati,1953,179,1
+370,Maserati,1953,180,1
+371,Ferrari,1953,181,1
+372,OSCA,1953,25,2
+373,Maserati,1953,22,1
+374,"Cooper Alta",1953,107,3
+375,"AFM Bristol",1953,159,2
+376,"HWM Alta",1953,14,2
+377,"Connaught Lea Francis",1953,170,1
+378,Ferrari,1953,144,1
+379,Maserati,1953,103,2
+380,OSCA,1953,143,2
+381,"HWM Alta",1953,182,1
+382,Ferrari,1953,102,2
+383,Veritas,1953,183,1
+384,"Cooper Bristol",1953,184,1
+385,Veritas,1953,157,1
+386,BMW,1953,154,1
+387,BMW,1953,149,1
+388,Veritas,1953,185,1
+389,EMW,1953,186,1
+390,Veritas,1953,187,1
+391,Veritas,1953,150,1
+392,"AFM BMW",1953,188,1
+393,Ferrari,1953,189,1
+394,"AFM BMW",1953,153,1
+395,Veritas,1953,190,1
+396,Veritas,1953,191,1
+397,Maserati,1953,192,1
+398,Ferrari,1953,160,1
+399,"HWM Alta",1953,193,1
+400,Ferrari,1953,109,1
+401,Ferrari,1954,110,9
+402,Maserati,1954,180,2
+403,Mercedes-Benz,1954,1,6
+404,Maserati,1954,163,8
+405,Mercedes-Benz,1954,194,6
+406,Maserati,1954,80,1
+407,Maserati,1954,3,2
+408,Maserati,1954,122,4
+409,Maserati,1954,22,6
+410,Maserati,1954,179,5
+411,Maserati,1954,24,2
+412,Maserati,1954,195,1
+413,Mercedes-Benz,1954,183,5
+414,Ferrari,1954,66,8
+415,Gordini,1954,196,2
+416,Maserati,1954,65,6
+417,Maserati,1954,107,6
+418,Gordini,1954,121,8
+419,Ferrari,1954,102,3
+420,Lancia,1954,5,1
+421,Lancia,1954,6,1
+422,Ferrari,1954,64,5
+423,Maserati,1954,1,2
+424,Ferrari,1954,63,9
+425,Gordini,1954,83,3
+426,Gordini,1954,111,3
+427,Ferrari,1954,4,2
+428,Maserati,1954,105,4
+429,Gordini,1954,143,1
+430,Ferrari,1954,181,3
+431,Maserati,1954,197,2
+432,Gordini,1954,198,1
+433,Ferrari,1954,3,4
+434,"Cooper Bristol",1954,16,1
+435,"Connaught Lea Francis",1954,199,1
+436,"Connaught Lea Francis",1954,200,1
+437,"Connaught Lea Francis",1954,201,1
+438,"Connaught Lea Francis",1954,202,1
+439,Maserati,1954,130,2
+440,Maserati,1954,203,1
+441,"Cooper Bristol",1954,204,1
+442,Maserati,1954,6,3
+443,Maserati,1954,5,3
+444,"Connaught Lea Francis",1954,205,1
+445,Ferrari,1954,15,1
+446,Gordini,1954,206,4
+447,Vanwall,1954,123,2
+448,"Cooper Alta",1954,69,1
+449,"Cooper Bristol",1954,114,1
+450,"Kurtis Kraft Offenhauser",1954,100,1
+451,"Kuzma Offenhauser",1954,136,1
+452,"Kurtis Kraft Offenhauser",1954,44,1
+453,"Kurtis Kraft Offenhauser",1954,45,1
+454,"Kurtis Kraft Offenhauser",1954,42,2
+455,"Kurtis Kraft Offenhauser",1954,87,1
+456,"Kurtis Kraft Offenhauser",1954,56,1
+457,"Phillips Offenhauser",1954,177,1
+458,"Kurtis Kraft Offenhauser",1954,39,1
+459,"Kurtis Kraft Offenhauser",1954,51,2
+460,"Kurtis Kraft Offenhauser",1954,207,1
+461,"Stevens Offenhauser",1954,178,1
+462,"Kurtis Kraft Offenhauser",1954,135,1
+463,"Kurtis Kraft Offenhauser",1954,30,2
+464,"Kurtis Kraft Offenhauser",1954,60,2
+465,"Kurtis Kraft Offenhauser",1954,89,1
+466,"Kurtis Kraft Offenhauser",1954,47,2
+467,"Kuzma Offenhauser",1954,96,1
+468,"Kuzma Offenhauser",1954,37,1
+469,"Kuzma Offenhauser",1954,88,1
+470,"Kurtis Kraft Offenhauser",1954,141,1
+471,"Kurtis Kraft Offenhauser",1954,59,1
+472,"Kurtis Kraft Offenhauser",1954,35,2
+473,"Kurtis Kraft Offenhauser",1954,175,2
+474,"Kurtis Kraft Offenhauser",1954,173,1
+475,"Pankratz Offenhauser",1954,137,1
+476,"Stevens Offenhauser",1954,208,1
+477,"Stevens Offenhauser",1954,142,1
+478,"Kurtis Kraft Offenhauser",1954,209,1
+479,"Kurtis Kraft Offenhauser",1954,139,1
+480,"Kurtis Kraft Offenhauser",1954,54,2
+481,"Kurtis Kraft Offenhauser",1954,210,1
+482,"Pawl Offenhauser",1954,98,1
+483,"Pawl Offenhauser",1954,140,1
+484,"Kurtis Kraft Offenhauser",1954,46,1
+485,"Nichels Offenhauser",1954,176,1
+486,"Nichels Offenhauser",1954,89,1
+487,"Nichels Offenhauser",1954,211,1
+488,"Schroeder Offenhauser",1954,89,1
+489,"Schroeder Offenhauser",1954,142,1
+490,"Kurtis Kraft Offenhauser",1954,172,1
+491,"Kurtis Kraft Offenhauser",1954,40,1
+492,"Bromme Offenhauser",1954,50,1
+493,"Bromme Offenhauser",1954,212,1
+494,"Schroeder Offenhauser",1954,213,1
+495,"Schroeder Offenhauser",1954,139,1
+496,"Kurtis Kraft Offenhauser",1954,211,1
+497,Gordini,1954,161,2
+498,Ferrari,1954,5,1
+499,"HWM Alta",1954,115,1
+500,Gordini,1954,162,1
+501,Ferrari,1954,71,1
+502,Mercedes-Benz,1954,192,1
+503,"Klenk BMW",1954,157,1
+504,Mercedes-Benz,1955,1,6
+505,Mercedes-Benz,1955,107,7
+506,Ferrari,1955,4,4
+507,Ferrari,1955,111,2
+508,Maserati,1955,163,6
+509,Maserati,1955,121,10
+510,Ferrari,1955,66,8
+511,Maserati,1955,180,7
+512,Maserati,1955,214,3
+513,Maserati,1955,3,3
+514,Mercedes-Benz,1955,194,6
+515,Lancia,1955,215,3
+516,Vanwall,1955,110,2
+517,Ferrari,1955,215,4
+518,Ferrari,1955,110,3
+519,Gordini,1955,216,3
+520,Gordini,1955,196,3
+521,Ferrari,1955,8,1
+522,Gordini,1955,64,3
+523,Maserati,1955,204,3
+524,Maserati,1955,27,1
+525,Ferrari,1955,63,1
+526,Ferrari,1955,181,2
+527,Mercedes-Benz,1955,183,1
+528,Maserati,1955,65,3
+529,Maserati,1955,179,2
+530,Maserati,1955,206,1
+531,Maserati,1955,166,3
+532,Gordini,1955,217,1
+533,Lancia,1955,6,3
+534,Maserati,1955,218,1
+535,Lancia,1955,5,2
+536,Gordini,1955,143,2
+537,Gordini,1955,167,1
+538,Mercedes-Benz,1955,71,2
+539,Gordini,1955,219,1
+540,Maserati,1955,115,1
+541,Vanwall,1955,122,2
+542,Vanwall,1955,65,3
+543,"Cooper Bristol",1955,220,1
+544,"Connaught Alta",1955,132,1
+545,Maserati,1955,123,2
+546,Maserati,1955,130,1
+547,"Connaught Alta",1955,28,1
+548,"Connaught Alta",1955,27,1
+549,"Connaught Alta",1955,200,1
+550,Maserati,1955,81,1
+551,"Kurtis Kraft Offenhauser",1955,141,1
+552,"Kurtis Kraft Offenhauser",1955,35,1
+553,"Kurtis Kraft Offenhauser",1955,39,1
+554,"Kurtis Kraft Offenhauser",1955,47,1
+555,"Kuzma Offenhauser",1955,176,1
+556,"Kurtis Kraft Offenhauser",1955,37,1
+557,"Kurtis Kraft Offenhauser",1955,211,1
+558,"Kurtis Kraft Offenhauser",1955,89,1
+559,"Kurtis Kraft Offenhauser",1955,221,1
+560,"Kurtis Kraft Offenhauser",1955,210,1
+561,"Kurtis Kraft Offenhauser",1955,172,1
+562,"Kurtis Kraft Offenhauser",1955,40,1
+563,"Kuzma Offenhauser",1955,42,1
+564,"Kurtis Kraft Offenhauser",1955,222,1
+565,"Trevis Offenhauser",1955,140,1
+566,"Epperly Offenhauser",1955,54,1
+567,"Phillips Offenhauser",1955,177,1
+568,"Kurtis Kraft Offenhauser",1955,178,1
+569,"Kurtis Kraft Offenhauser",1955,135,1
+570,"Trevis Offenhauser",1955,223,1
+571,"Kurtis Kraft Offenhauser",1955,60,1
+572,"Schroeder Offenhauser",1955,224,1
+573,"Kurtis Kraft Offenhauser",1955,30,1
+574,"Pawl Offenhauser",1955,225,1
+575,"Kurtis Kraft Offenhauser",1955,226,1
+576,"Kuzma Offenhauser",1955,136,1
+577,"Kurtis Kraft Offenhauser",1955,100,1
+578,"Kurtis Kraft Offenhauser",1955,44,1
+579,"Kurtis Kraft Offenhauser",1955,227,1
+580,"Kuzma Offenhauser",1955,98,1
+581,"Kurtis Kraft Offenhauser",1955,228,1
+582,"Kurtis Kraft Offenhauser",1955,208,1
+583,"Stevens Offenhauser",1955,51,1
+584,"Kurtis Kraft Offenhauser",1955,56,1
+585,"Pankratz Offenhauser",1955,137,1
+586,Lancia,1955,25,1
+587,Ferrari,1955,71,1
+588,Ferrari,1955,65,1
+589,Mercedes-Benz,1955,81,1
+590,Maserati,1955,182,1
+591,Gordini,1955,229,1
+592,Ferrari,1956,123,9
+593,Ferrari,1956,111,1
+594,Maserati,1956,214,4
+595,Maserati,1956,107,9
+596,Vanwall,1956,65,6
+597,Maserati,1956,6,5
+598,Ferrari,1956,83,1
+599,Maserati,1956,121,8
+600,Maserati,1956,3,5
+601,Ferrari,1956,1,10
+602,Vanwall,1956,66,4
+603,"Connaught Alta",1956,230,1
+604,Ferrari,1956,215,10
+605,Maserati,1956,204,4
+606,Maserati,1956,80,5
+607,Ferrari,1956,180,4
+608,Maserati,1956,110,1
+609,Maserati,1956,103,1
+610,Maserati,1956,231,2
+611,Ferrari,1956,232,2
+612,Maserati,1956,218,1
+613,Maserati,1956,233,1
+614,Maserati,1956,234,2
+615,Maserati,1956,166,1
+616,Maserati,1956,63,1
+617,Ferrari,1956,235,5
+618,"Connaught Alta",1956,170,2
+619,Gordini,1956,64,5
+620,"Cooper Bristol",1956,16,1
+621,"Connaught Alta",1956,236,1
+622,Gordini,1956,216,4
+623,Maserati,1956,130,3
+624,BRM,1956,237,1
+625,BRM,1956,110,1
+626,Maserati,1956,238,3
+627,Maserati,1956,181,3
+628,"Connaught Alta",1956,239,1
+629,"Emeryson Alta",1956,240,1
+630,Maserati,1956,220,1
+631,BRM,1956,203,1
+632,Vanwall,1956,63,1
+633,"Watson Offenhauser",1956,40,1
+634,"Kurtis Kraft Offenhauser",1956,60,1
+635,"Phillips Offenhauser",1956,177,1
+636,"Kuzma Offenhauser",1956,30,1
+637,"Kurtis Kraft Offenhauser",1956,61,1
+638,"Kuzma Offenhauser",1956,141,1
+639,"Kurtis Kraft Offenhauser",1956,241,1
+640,"Kurtis Kraft Offenhauser",1956,98,1
+641,"Lesovsky Offenhauser",1956,137,1
+642,"Stevens Offenhauser",1956,99,1
+643,"Kuzma Offenhauser",1956,46,1
+644,"Kurtis Kraft Offenhauser",1956,56,1
+645,"Kurtis Kraft Offenhauser",1956,242,1
+646,"Kurtis Kraft Offenhauser",1956,227,1
+647,"Kuzma Offenhauser",1956,140,1
+648,"Kuzma Offenhauser",1956,243,1
+649,"Kurtis Kraft Offenhauser",1956,62,1
+650,"Kurtis Kraft Offenhauser",1956,210,1
+651,"Kuzma Offenhauser",1956,136,1
+652,"Kurtis Kraft Offenhauser",1956,54,1
+653,"Kurtis Kraft Offenhauser",1956,244,1
+654,"Kurtis Kraft Offenhauser",1956,35,1
+655,"Kurtis Kraft Offenhauser",1956,208,1
+656,"Kurtis Kraft Offenhauser",1956,225,1
+657,"Kurtis Kraft Offenhauser",1956,172,1
+658,"Kurtis Kraft Offenhauser",1956,245,1
+659,"Kurtis Kraft Offenhauser",1956,224,1
+660,"Kurtis Kraft Offenhauser",1956,89,1
+661,"Kurtis Kraft Offenhauser",1956,221,1
+662,"Kurtis Kraft Offenhauser",1956,226,1
+663,"Kurtis Kraft Offenhauser",1956,228,1
+664,"Kurtis Kraft Offenhauser",1956,45,1
+665,"Kuzma Offenhauser",1956,176,1
+666,"Kurtis Kraft Novi",1956,39,1
+667,Gordini,1956,143,1
+668,Gordini,1956,83,2
+669,"Connaught Alta",1956,203,1
+670,Maserati,1956,24,1
+671,Gordini,1956,81,1
+672,Vanwall,1956,71,1
+673,Maserati,1956,246,1
+674,"Connaught Alta",1956,247,1
+675,Vanwall,1956,110,1
+676,Maserati,1956,81,1
+677,Maserati,1956,71,1
+678,Bugatti,1956,66,1
+679,Maserati,1956,195,1
+680,Gordini,1956,248,1
+681,Maserati,1956,65,1
+682,Ferrari,1956,249,1
+683,Maserati,1957,1,7
+684,Maserati,1957,121,6
+685,Maserati,1957,166,4
+686,Maserati,1957,65,9
+687,Ferrari,1957,63,1
+688,Ferrari,1957,235,1
+689,Ferrari,1957,214,1
+690,Ferrari,1957,123,8
+691,Ferrari,1957,250,3
+692,Maserati,1957,246,4
+693,Maserati,1957,107,1
+694,Ferrari,1957,251,1
+695,Maserati,1957,234,3
+696,Ferrari,1957,215,1
+697,Ferrari,1957,110,7
+698,Ferrari,1957,180,6
+699,Vanwall,1957,237,6
+700,Vanwall,1957,107,6
+701,Ferrari,1957,66,3
+702,"Cooper Climax",1957,130,3
+703,"Cooper Bristol",1957,16,1
+704,Vanwall,1957,252,5
+705,"Cooper Climax",1957,220,6
+706,Maserati,1957,253,1
+707,BRM,1957,170,1
+708,BRM,1957,247,1
+709,Maserati,1957,254,4
+710,Maserati,1957,249,4
+711,Maserati,1957,80,3
+712,Maserati,1957,238,3
+713,Maserati,1957,204,5
+714,"Epperly Offenhauser",1957,60,1
+715,"Epperly Offenhauser",1957,54,1
+716,"Kuzma Offenhauser",1957,136,1
+717,"Kurtis Kraft Novi",1957,39,1
+718,"Kurtis Kraft Offenhauser",1957,89,1
+719,"Kurtis Kraft Offenhauser",1957,228,1
+720,"Kurtis Kraft Offenhauser",1957,175,1
+721,"Kurtis Kraft Offenhauser",1957,210,1
+722,"Phillips Offenhauser",1957,241,1
+723,"Lesovsky Offenhauser",1957,46,1
+724,"Kurtis Kraft Offenhauser",1957,245,1
+725,"Kuzma Offenhauser",1957,176,1
+726,"Kurtis Kraft Offenhauser",1957,242,1
+727,"Kuzma Offenhauser",1957,222,1
+728,"Kurtis Kraft Novi",1957,35,1
+729,"Kurtis Kraft Offenhauser",1957,30,1
+730,"Kurtis Kraft Offenhauser",1957,177,1
+731,"Kurtis Kraft Offenhauser",1957,137,1
+732,"Kurtis Kraft Offenhauser",1957,255,1
+733,"Kuzma Offenhauser",1957,244,1
+734,"Dunn Offenhauser",1957,221,1
+735,"Kurtis Kraft Offenhauser",1957,56,1
+736,"Kuzma Offenhauser",1957,256,1
+737,"Kurtis Kraft Offenhauser",1957,257,1
+738,"Kurtis Kraft Offenhauser",1957,140,1
+739,"Kurtis Kraft Offenhauser",1957,258,1
+740,"Kurtis Kraft Offenhauser",1957,227,1
+741,"Kurtis Kraft Offenhauser",1957,172,1
+742,"Kurtis Kraft Offenhauser",1957,208,1
+743,"Lesovsky Offenhauser",1957,98,1
+744,"Watson Offenhauser",1957,45,1
+745,"Kurtis Kraft Offenhauser",1957,225,1
+746,"Kurtis Kraft Offenhauser",1957,259,1
+747,"Connaught Alta",1957,252,1
+748,BRM,1957,203,2
+749,"Connaught Alta",1957,253,1
+750,Maserati,1957,81,1
+751,Maserati,1957,195,1
+752,"Cooper Climax",1957,260,1
+753,Vanwall,1957,130,1
+754,BRM,1957,261,1
+755,"Porsche (F2)",1957,186,1
+756,"Cooper Climax",1957,262,1
+757,"Porsche (F2)",1957,263,1
+758,"Cooper Climax",1957,264,1
+759,Maserati,1957,183,1
+760,"Porsche (F2)",1957,181,1
+761,"Cooper Climax",1957,265,1
+762,"Cooper Climax",1957,266,1
+763,Vanwall,1958,237,10
+764,Ferrari,1958,110,10
+765,Vanwall,1958,252,8
+766,"Lotus Climax",1958,267,8
+767,BRM,1958,65,9
+768,Ferrari,1958,232,3
+769,Maserati,1958,66,1
+770,"Cooper Climax",1958,130,9
+771,Maserati,1958,246,7
+772,Maserati,1958,268,3
+773,Maserati,1958,80,3
+774,"Cooper Climax",1958,220,9
+775,"Lotus Climax",1958,269,9
+776,Ferrari,1958,180,5
+777,BRM,1958,121,9
+778,Ferrari,1958,123,7
+779,Maserati,1958,185,2
+780,Maserati,1958,254,4
+781,Vanwall,1958,107,9
+782,"Cooper Climax",1958,66,7
+783,Porsche,1958,263,2
+784,Maserati,1958,249,2
+785,Ferrari,1958,270,3
+786,BRM,1958,246,2
+787,"Cooper Climax",1958,170,1
+788,Maserati,1958,183,3
+789,Maserati,1958,231,4
+790,"Cooper Climax",1958,271,2
+791,"Cooper Climax",1958,272,1
+792,"Cooper Climax",1958,273,1
+793,"Cooper Climax",1958,274,1
+794,"Cooper Climax",1958,275,1
+795,BRM,1958,203,1
+796,"Cooper Climax",1958,107,1
+797,Maserati,1958,1,2
+798,Maserati,1958,121,1
+799,Maserati,1958,65,1
+800,Maserati,1958,166,1
+801,Maserati,1958,204,1
+802,Maserati,1958,276,5
+803,Ferrari,1958,250,6
+804,"Cooper Climax",1958,277,2
+805,"Connaught Alta",1958,253,1
+806,"Lotus Climax",1958,278,1
+807,"Connaught Alta",1958,170,1
+808,Maserati,1958,267,1
+809,"Epperly Offenhauser",1958,136,1
+810,"Epperly Offenhauser",1958,279,1
+811,"Kurtis Kraft Offenhauser",1958,228,1
+812,"Epperly Offenhauser",1958,35,1
+813,"Epperly Offenhauser",1958,54,1
+814,"Watson Offenhauser",1958,137,1
+815,"Phillips Offenhauser",1958,177,1
+816,"Watson Offenhauser",1958,280,1
+817,"Kurtis Kraft Offenhauser",1958,140,1
+818,"Kurtis Kraft Novi",1958,258,1
+819,"Kurtis Kraft Offenhauser",1958,227,1
+820,"Kurtis Kraft Offenhauser",1958,30,1
+821,"Kuzma Offenhauser",1958,244,1
+822,"Kurtis Kraft Offenhauser",1958,242,1
+823,"Kuzma Offenhauser",1958,281,1
+824,"Kuzma Offenhauser",1958,282,1
+825,"Kurtis Kraft Offenhauser",1958,257,1
+826,"Kurtis Kraft Novi",1958,39,1
+827,"Kurtis Kraft Offenhauser",1958,223,1
+828,"Lesovsky Offenhauser",1958,98,1
+829,"Kurtis Kraft Offenhauser",1958,243,1
+830,"Kuzma Offenhauser",1958,256,1
+831,"Kurtis Kraft Offenhauser",1958,176,1
+832,"Dunn Offenhauser",1958,222,1
+833,"Lesovsky Offenhauser",1958,245,1
+834,"Kurtis Kraft Offenhauser",1958,241,1
+835,"Watson Offenhauser",1958,61,1
+836,"Watson Offenhauser",1958,208,1
+837,"Kurtis Kraft Offenhauser",1958,210,1
+838,"Kurtis Kraft Offenhauser",1958,283,1
+839,"Kurtis Kraft Offenhauser",1958,284,1
+840,"Kurtis Kraft Offenhauser",1958,285,1
+841,"Kuzma Offenhauser",1958,286,1
+842,Maserati,1958,287,1
+843,Maserati,1958,270,1
+844,Maserati,1958,45,1
+845,BRM,1958,66,1
+846,Porsche,1958,186,1
+847,"Cooper Climax",1958,264,1
+848,"Lotus Climax",1958,253,1
+849,"Cooper Climax",1958,185,1
+850,"Cooper Climax",1958,288,1
+851,"Cooper Climax",1958,266,1
+852,"Cooper Climax",1958,262,1
+853,BRM,1959,246,7
+854,"Cooper Climax",1959,220,8
+855,"Cooper Climax",1959,254,6
+856,"Lotus Climax",1959,289,6
+857,Ferrari,1959,121,3
+858,Ferrari,1959,270,7
+859,"Lotus Climax",1959,269,7
+860,"Cooper Climax",1959,66,8
+861,Ferrari,1959,267,5
+862,Porsche,1959,263,1
+863,"Cooper Climax",1959,107,6
+864,BRM,1959,65,7
+865,Ferrari,1959,237,7
+866,"Aston Martin",1959,276,4
+867,"Aston Martin",1959,130,4
+868,BRM,1959,107,2
+869,"Cooper Climax",1959,271,7
+870,"Lotus Climax",1959,278,2
+871,"Cooper Borgward",1959,290,1
+872,"Cooper Climax",1959,291,1
+873,"Cooper Climax",1959,292,1
+874,"Cooper Borgward",1959,253,1
+875,Maserati,1959,293,2
+876,BRM,1959,203,5
+877,"Cooper Climax",1959,170,1
+878,"Cooper Maserati",1959,277,4
+879,"Cooper Maserati",1959,183,1
+880,"Lotus Climax",1959,294,1
+881,"JBW Maserati",1959,262,1
+882,"Cooper Climax",1959,295,1
+883,Vanwall,1959,237,1
+884,Ferrari,1959,296,4
+885,"Cooper Maserati",1959,297,1
+886,"Watson Offenhauser",1959,98,1
+887,"Watson Offenhauser",1959,54,1
+888,"Lesovsky Offenhauser",1959,176,1
+889,"Epperly Offenhauser",1959,35,1
+890,"Epperly Offenhauser",1959,283,1
+891,"Epperly Offenhauser",1959,228,1
+892,"Kurtis Kraft Offenhauser",1959,42,1
+893,"Kurtis Kraft Offenhauser",1959,140,1
+894,"Kurtis Kraft Offenhauser",1959,39,1
+895,"Kuzma Offenhauser",1959,282,1
+896,"Kuzma Offenhauser",1959,46,1
+897,"Moore Offenhauser",1959,241,1
+898,"Dunn Offenhauser",1959,221,1
+899,"Kurtis Kraft Offenhauser",1959,172,1
+900,"Kurtis Kraft Offenhauser",1959,298,1
+901,"Kurtis Kraft Offenhauser",1959,299,1
+902,"Kuzma Offenhauser",1959,256,1
+903,"Kuzma Offenhauser",1959,227,1
+904,"Watson Offenhauser",1959,40,1
+905,"Watson Offenhauser",1959,61,1
+906,"Kuzma Offenhauser",1959,258,1
+907,"Kurtis Kraft Offenhauser",1959,177,1
+908,"Elder Offenhauser",1959,226,1
+909,"Phillips Offenhauser",1959,300,1
+910,"Kurtis Kraft Offenhauser",1959,242,1
+911,"Kurtis Kraft Offenhauser",1959,301,1
+912,"Christensen Offenhauser",1959,245,1
+913,"Kurtis Kraft Offenhauser",1959,222,1
+914,"Kurtis Kraft Offenhauser",1959,280,1
+915,"Sutton Offenhauser",1959,257,1
+916,"Kurtis Kraft Offenhauser",1959,302,1
+917,"Lesovsky Offenhauser",1959,285,1
+918,"Epperly Offenhauser",1959,136,1
+919,"Cooper Maserati",1959,130,3
+920,"Lotus Climax",1959,238,1
+921,Porsche,1959,250,1
+922,Ferrari,1959,232,2
+923,"Cooper Maserati",1959,303,2
+924,"Cooper Climax",1959,249,1
+925,Maserati,1959,287,1
+926,"Cooper Maserati",1959,170,1
+927,Maserati,1959,249,1
+928,Maserati,1959,263,1
+929,BRM,1959,183,1
+930,Ferrari,1959,250,1
+931,Porsche,1959,304,1
+932,"Kurtis Kraft Offenhauser",1959,98,1
+933,"Cooper OSCA",1959,251,1
+934,"Tec-Mec Maserati",1959,293,1
+935,"Cooper Climax",1959,65,1
+936,"Cooper Climax",1959,305,1
+937,"Connaught Alta",1959,306,1
+938,"Cooper Climax",1960,220,8
+939,"Cooper Climax",1960,271,8
+940,BRM,1960,269,8
+941,"Cooper Climax",1960,232,5
+942,Ferrari,1960,270,8
+943,"Lotus Climax",1960,307,6
+944,"Cooper Climax",1960,308,3
+945,"Lotus Climax",1960,278,4
+946,Ferrari,1960,309,3
+947,Ferrari,1960,250,8
+948,"Cooper Climax",1960,290,3
+949,Scarab,1960,310,2
+950,BRM,1960,246,8
+951,"Lotus Climax",1960,289,8
+952,BRM,1960,296,7
+953,"Cooper Climax",1960,237,6
+954,Scarab,1960,311,1
+955,"Lotus Climax",1960,107,4
+956,Ferrari,1960,312,3
+957,"Cooper Climax",1960,291,4
+958,"Cooper Climax",1960,263,1
+959,"Cooper Maserati",1960,66,4
+960,Ferrari,1960,267,1
+961,"Cooper Climax",1960,66,1
+962,"Cooper Climax",1960,107,2
+963,"Cooper Maserati",1960,166,1
+964,"Lotus Climax",1960,313,1
+965,Ferrari,1960,63,1
+966,"Cooper Maserati",1960,314,1
+967,Behra-Porsche,1960,254,1
+968,Maserati,1960,315,1
+969,Maserati,1960,316,1
+970,"Cooper Climax",1960,65,1
+971,Maserati,1960,317,1
+972,Maserati,1960,318,1
+973,Maserati,1960,249,1
+974,"Lotus Climax",1960,319,4
+975,"Aston Martin",1960,66,1
+976,"Lotus Climax",1960,294,1
+977,"JBW Maserati",1960,262,3
+978,"Cooper Maserati",1960,254,3
+979,"Cooper Castellotti",1960,315,3
+980,"Cooper Climax",1960,310,1
+981,"Cooper Maserati",1960,277,3
+982,"Cooper Climax",1960,170,1
+983,"Aston Martin",1960,130,1
+984,"Cooper Maserati",1960,320,1
+985,"Cooper Maserati",1960,297,1
+986,"Watson Offenhauser",1960,54,1
+987,"Watson Offenhauser",1960,98,1
+988,"Epperly Offenhauser",1960,283,1
+989,"Phillips Offenhauser",1960,300,1
+990,"Lesovsky Offenhauser",1960,176,1
+991,"Trevis Offenhauser",1960,140,1
+992,"Watson Offenhauser",1960,321,1
+993,"Meskowski Offenhauser",1960,241,1
+994,"Trevis Offenhauser",1960,322,1
+995,"Kurtis Kraft Offenhauser",1960,242,1
+996,"Epperly Offenhauser",1960,302,1
+997,"Kuzma Offenhauser",1960,42,1
+998,"Kuzma Offenhauser",1960,211,1
+999,"Kurtis Kraft Offenhauser",1960,46,1
+1000,"Watson Offenhauser",1960,96,1
+1001,"Meskowski Offenhauser",1960,301,1
+1002,"Kurtis Kraft Offenhauser",1960,223,1
+1003,"Christensen Offenhauser",1960,323,1
+1004,"Epperly Offenhauser",1960,136,1
+1005,"Watson Offenhauser",1960,45,1
+1006,"Ewing Offenhauser",1960,256,1
+1007,"Kurtis Kraft Offenhauser",1960,177,1
+1008,"Watson Offenhauser",1960,35,1
+1009,"Epperly Offenhauser",1960,324,1
+1010,"Kurtis Kraft Offenhauser",1960,282,1
+1011,"Kurtis Kraft Offenhauser",1960,225,1
+1012,"Epperly Offenhauser",1960,228,1
+1013,"Kurtis Kraft Offenhauser",1960,93,1
+1014,"Epperly Offenhauser",1960,299,1
+1015,"Watson Offenhauser",1960,285,1
+1016,"Watson Offenhauser",1960,61,1
+1017,"Ewing Offenhauser",1960,221,1
+1018,"Kurtis Kraft Offenhauser",1960,281,1
+1019,"Cooper Climax",1960,130,2
+1020,"Cooper Castellotti",1960,287,1
+1021,Porsche,1960,183,1
+1022,Porsche,1960,186,1
+1023,"Cooper Climax",1960,325,1
+1024,"Cooper Climax",1960,185,1
+1025,Behra-Porsche,1960,326,1
+1026,"Cooper Maserati",1960,327,1
+1027,"Cooper Maserati",1960,249,1
+1028,"Cooper Climax",1960,328,1
+1029,"Cooper Climax",1960,329,1
+1030,"Lotus Climax",1960,203,1
+1031,"Cooper Climax",1960,238,1
+1032,Vanwall,1960,237,1
+1033,"Cooper Climax",1960,270,1
+1034,"Lotus Climax",1960,330,1
+1035,"Cooper Maserati",1960,250,1
+1036,"Cooper Castellotti",1960,331,1
+1037,Maserati,1960,332,1
+1038,"Cooper Climax",1960,203,1
+1039,Ferrari,1961,270,7
+1040,Ferrari,1961,250,7
+1041,Ferrari,1961,312,7
+1042,Ferrari,1961,232,1
+1043,"Cooper Climax",1961,319,8
+1044,Porsche,1961,296,8
+1045,Porsche,1961,246,8
+1046,"Lotus Climax",1961,107,8
+1047,"Cooper Climax",1961,333,5
+1048,"Cooper Climax",1961,254,3
+1049,Porsche,1961,263,6
+1050,"Lotus Climax",1961,307,8
+1051,"BRM Climax",1961,237,8
+1052,"BRM Climax",1961,269,8
+1053,"Cooper Maserati",1961,66,5
+1054,"Cooper Maserati",1961,334,4
+1055,"Cooper Climax",1961,220,8
+1056,"Lotus Climax",1961,308,3
+1057,"Lotus Climax",1961,289,6
+1058,"Cooper Climax",1961,271,8
+1059,"Lotus Climax",1961,309,2
+1060,"Lotus Climax",1961,335,1
+1061,Porsche,1961,183,3
+1062,"Cooper Climax",1961,130,5
+1063,"Lotus Climax",1961,336,2
+1064,"Lotus Climax",1961,277,2
+1065,"Gilby Climax",1961,320,1
+1066,"Lotus Climax",1961,185,3
+1067,"Ferguson Climax",1961,170,1
+1068,"Ferguson Climax",1961,107,1
+1069,Ferrari,1961,337,3
+1070,"Lotus Climax",1961,264,2
+1071,"Lotus Climax",1961,338,2
+1072,"Lotus Climax",1961,339,3
+1073,"Lotus Climax",1961,291,3
+1074,"Cooper Maserati",1961,340,1
+1075,"Lotus Climax",1961,267,1
+1076,"Lotus Climax",1961,341,2
+1077,"Cooper Maserati",1961,342,1
+1078,"Lotus Maserati",1961,343,1
+1079,"De Tomaso Alfa Romeo",1961,344,1
+1080,Ferrari,1961,345,1
+1081,"Lotus Climax",1961,254,3
+1082,"JBW Climax",1961,262,1
+1083,"Cooper Climax",1961,170,1
+1084,"De Tomaso Alfa Romeo",1961,346,1
+1085,"De Tomaso OSCA",1961,347,1
+1086,"De Tomaso OSCA",1961,249,1
+1087,"Cooper Climax",1961,348,2
+1088,"Cooper Climax",1961,277,1
+1089,Ferrari,1961,309,1
+1090,"Cooper Climax",1961,349,1
+1091,"Lotus Climax",1961,350,1
+1092,"Cooper Climax",1961,351,1
+1093,"Lotus Climax",1961,232,1
+1094,"Lotus Climax",1961,321,1
+1095,"Lotus Climax",1961,330,1
+1096,"Cooper Climax",1961,352,1
+1097,"Lotus Climax",1962,307,9
+1098,BRM,1962,269,9
+1099,Ferrari,1962,270,6
+1100,Ferrari,1962,345,4
+1101,"Lola Climax",1962,319,9
+1102,"Lotus Climax",1962,220,5
+1103,Porsche,1962,263,8
+1104,"Lotus Climax",1962,66,6
+1105,"Lotus Climax",1962,308,1
+1106,"Lotus Climax",1962,353,2
+1107,"Lotus Climax",1962,335,9
+1108,Ferrari,1962,309,3
+1109,BRM,1962,312,9
+1110,"Cooper Climax",1962,336,9
+1111,"Cooper Climax",1962,271,9
+1112,"Lotus Climax",1962,354,1
+1113,"Lotus BRM",1962,254,4
+1114,"Lotus Climax",1962,289,8
+1115,Ferrari,1962,337,4
+1116,Porsche,1962,246,7
+1117,"Cooper Climax",1962,333,4
+1118,"Lotus Climax",1962,254,2
+1119,"Emeryson Climax",1962,185,1
+1120,Porsche,1962,296,7
+1121,"Lola Climax",1962,130,7
+1122,Porsche,1962,355,1
+1123,"Emeryson Climax",1962,356,2
+1124,"Cooper Climax",1962,277,2
+1125,"Lotus Climax",1962,357,1
+1126,"Lotus BRM",1962,185,1
+1127,"Lotus Climax",1962,358,1
+1128,"Brabham Climax",1962,220,3
+1129,"Lotus Climax",1962,359,1
+1130,"Cooper Climax",1962,360,1
+1131,BRM,1962,361,1
+1132,"Lotus Climax",1962,362,1
+1133,"LDS Alfa Romeo",1962,363,1
+1134,"Cooper Alfa Romeo",1962,364,1
+1135,Ferrari,1962,334,3
+1136,"Lotus Climax",1962,344,1
+1137,"Lotus BRM",1962,353,1
+1138,Porsche,1962,365,1
+1139,Porsche,1962,344,1
+1140,"ENB Maserati",1962,308,1
+1141,"Gilby BRM",1962,320,1
+1142,"Lotus BRM",1962,366,1
+1143,"Cooper Climax",1962,348,1
+1144,"Lotus Climax",1962,349,1
+1145,"Lotus Climax",1962,367,1
+1146,"Cooper Climax",1962,351,1
+1147,"Cooper Climax",1962,368,1
+1148,"Lotus Climax",1963,307,10
+1149,"Cooper Climax",1963,271,10
+1150,"Brabham Climax",1963,296,10
+1151,BRM,1963,312,10
+1152,"Cooper Climax",1963,246,10
+1153,Porsche,1963,263,7
+1154,"Cooper Climax",1963,336,10
+1155,"Scirocco BRM",1963,356,4
+1156,Ferrari,1963,319,10
+1157,BRM,1963,269,10
+1158,"Lola Climax",1963,308,1
+1159,"Lotus BRM",1963,330,9
+1160,"Lotus BRM",1963,353,9
+1161,ATS,1963,270,5
+1162,"Brabham Climax",1963,220,9
+1163,"Lola Climax",1963,369,5
+1164,"BRP BRM",1963,289,5
+1165,ATS,1963,337,5
+1166,Ferrari,1963,309,3
+1167,"Lotus Climax",1963,335,9
+1168,Ferrari,1963,370,1
+1169,Porsche,1963,371,2
+1170,BRM,1963,334,3
+1171,"Lotus Climax",1963,372,1
+1172,"Lotus BRM",1963,254,2
+1173,"Lola Climax",1963,373,2
+1174,"Lola Climax",1963,354,1
+1175,"Gilby BRM",1963,374,1
+1176,"Scirocco BRM",1963,277,2
+1177,Ferrari,1963,334,4
+1178,"Cooper Climax",1963,360,1
+1179,"LDS Alfa Romeo",1963,363,1
+1180,"Cooper Maserati",1963,375,1
+1181,"Lotus Ford",1963,376,1
+1182,"Alfa Romeo",1963,377,1
+1183,"Brabham Ford",1963,378,1
+1184,"Lotus Climax",1963,362,1
+1185,"LDS Alfa Romeo",1963,379,1
+1186,"Lotus Climax",1963,220,1
+1187,"Lotus BRM",1963,289,2
+1188,"Lola Climax",1963,66,1
+1189,BRM,1963,66,1
+1190,"Lola Climax",1963,372,1
+1191,"Lotus Climax",1963,380,1
+1192,"Lotus Climax",1963,66,1
+1193,"Lotus BRM",1963,270,1
+1194,nan,1963,254,1
+1195,"Lotus Climax",1963,348,1
+1196,"Cooper Climax",1963,297,1
+1197,"Stebro Ford",1963,381,1
+1198,"Lotus BRM",1963,98,1
+1199,"Lotus Climax",1963,382,2
+1200,"Lola Climax",1963,254,2
+1201,"Lotus BRM",1963,351,2
+1202,BRM,1963,383,1
+1203,"Lotus BRM",1963,369,1
+1204,"Lotus Climax",1964,307,11
+1205,"Cooper Climax",1964,271,10
+1206,"Brabham Climax",1964,220,10
+1207,BRM,1964,312,10
+1208,BRM,1964,269,10
+1209,"Brabham Climax",1964,296,10
+1210,"BRP BRM",1964,335,6
+1211,BRM,1964,337,6
+1212,"Lotus Climax",1964,384,4
+1213,"BRP BRM",1964,289,7
+1214,"Lotus BRM",1964,385,4
+1215,"Brabham BRM",1964,353,9
+1216,"Cooper Climax",1964,270,9
+1217,Ferrari,1964,334,10
+1218,"Scirocco Climax",1964,83,1
+1219,"Brabham BRM",1964,246,3
+1220,"Lotus BRM",1964,369,7
+1221,Ferrari,1964,319,10
+1222,"Brabham Climax",1964,373,7
+1223,"Brabham Climax",1964,246,5
+1224,"Lotus BRM",1964,372,9
+1225,Porsche,1964,263,1
+1226,"Lotus Climax",1964,380,7
+1227,"Cooper Ford",1964,386,1
+1228,"Brabham BRM",1964,374,1
+1229,BRM,1964,336,3
+1230,"Lotus BRM",1964,335,1
+1231,"Brabham Ford",1964,387,1
+1232,"Brabham BRM",1964,388,1
+1233,nan,1964,369,1
+1234,"Cooper Climax",1964,246,1
+1235,"Lotus BRM",1964,353,1
+1236,BRM,1964,66,4
+1237,Ferrari,1964,370,1
+1238,"Derrington-Francis ATS",1964,297,1
+1239,Honda,1964,389,3
+1240,"Lotus Climax",1964,371,1
+1241,"Cooper Climax",1964,186,1
+1242,"Lotus Climax",1964,352,1
+1243,"Brabham BRM",1964,351,2
+1244,Ferrari,1964,382,1
+1245,"Lotus Climax",1964,383,1
+1246,"Lotus Climax",1965,307,9
+1247,BRM,1965,390,10
+1248,"Cooper Climax",1965,271,10
+1249,"Brabham Climax",1965,220,6
+1250,BRM,1965,269,10
+1251,Honda,1965,312,8
+1252,"Lotus Climax",1965,380,9
+1253,"Brabham BRM",1965,353,10
+1254,Ferrari,1965,334,10
+1255,"Brabham Climax",1965,296,9
+1256,"Cooper Climax",1965,388,9
+1257,BRM,1965,308,1
+1258,"Lotus BRM",1965,289,6
+1259,"Lotus BRM",1965,391,8
+1260,BRM,1965,254,4
+1261,Honda,1965,389,6
+1262,"Brabham Climax",1965,246,10
+1263,Ferrari,1965,319,8
+1264,"Brabham BRM",1965,387,7
+1265,"Brabham Climax",1965,392,6
+1266,"Brabham Climax",1965,373,5
+1267,"Brabham BRM",1965,374,1
+1268,"Cooper Climax",1965,393,1
+1269,"Brabham Ford",1965,394,1
+1270,"Alfa Romeo",1965,377,1
+1271,"Lotus BRM",1965,336,1
+1272,"LDS Alfa Romeo",1965,379,1
+1273,"Brabham Ford",1965,378,1
+1274,"Cooper Climax",1965,360,1
+1275,"Lotus Climax",1965,394,2
+1276,"Lotus BRM",1965,372,1
+1277,Ferrari,1965,344,1
+1278,BRM,1965,346,1
+1279,"Lotus Climax",1965,395,1
+1280,"Brabham Climax",1965,337,1
+1281,BRM,1965,396,1
+1282,"Lotus BRM",1965,369,2
+1283,"Lotus Climax",1965,371,1
+1284,Ferrari,1965,382,2
+1285,Ferrari,1965,397,1
+1286,"Lotus Climax",1965,383,2
+1287,"Lotus BRM",1965,397,1
+1288,Ferrari,1966,319,2
+1289,"Cooper Maserati",1966,388,9
+1290,Ferrari,1966,334,7
+1291,"Brabham Repco",1966,220,9
+1292,"Cooper Maserati",1966,312,2
+1293,"Cooper Maserati",1966,398,5
+1294,"Eagle Climax",1966,296,6
+1295,BRM,1966,397,5
+1296,"Cooper Maserati",1966,246,7
+1297,"Lotus Climax",1966,307,5
+1298,BRM,1966,269,9
+1299,"Brabham Climax",1966,392,2
+1300,"Cooper Maserati",1966,353,7
+1301,"Lotus BRM",1966,380,8
+1302,BRM,1966,390,8
+1303,"Brabham BRM",1966,386,4
+1304,"Brabham Climax",1966,373,6
+1305,"Cooper Maserati",1966,319,7
+1306,"Brabham Repco",1966,392,7
+1307,"Lotus BRM",1966,384,5
+1308,Ferrari,1966,399,4
+1309,"McLaren Serenissima",1966,271,1
+1310,"Brabham Climax",1966,400,1
+1311,"Cooper Ferrari",1966,401,2
+1312,"Brabham Climax",1966,246,2
+1313,"Shannon Climax",1966,335,1
+1314,"Brabham BRM",1966,353,1
+1315,"McLaren Ford",1966,271,3
+1316,Ferrari,1966,370,2
+1317,"Lotus Climax",1966,395,1
+1318,Ferrari,1966,337,1
+1319,"Lotus BRM",1966,307,3
+1320,Honda,1966,312,3
+1321,"Eagle Weslake",1966,296,2
+1322,"Cooper Maserati",1966,369,1
+1323,"Lotus Climax",1966,382,2
+1324,"Matra BRM",1966,402,1
+1325,"Matra BRM",1966,403,1
+1326,nan,1966,404,1
+1327,"Brabham Repco",1966,183,1
+1328,nan,1966,384,1
+1329,"Lotus BRM",1966,382,2
+1330,"Brabham Climax",1966,405,1
+1331,"Lotus BRM",1966,406,1
+1332,"Brabham Climax",1966,407,1
+1333,"Matra Cosworth",1966,408,1
+1334,"Lotus Climax",1966,384,1
+1335,BRM,1966,289,2
+1336,Honda,1966,389,2
+1337,"Eagle Weslake",1966,397,2
+1338,"Cooper Maserati",1966,383,1
+1339,"Eagle Weslake",1967,296,9
+1340,BRM,1967,390,11
+1341,Ferrari,1967,369,10
+1342,"Cooper Maserati",1967,388,10
+1343,BRM,1967,380,11
+1344,"Lotus Ford",1967,307,9
+1345,"Cooper Maserati",1967,353,10
+1346,"Brabham Climax",1967,373,5
+1347,"Cooper Maserati",1967,382,8
+1348,"Cooper Maserati",1967,398,2
+1349,Ferrari,1967,370,2
+1350,"Brabham Repco",1967,220,11
+1351,"Brabham Repco",1967,392,11
+1352,"Cooper Maserati",1967,246,8
+1353,"Lotus Ford",1967,269,9
+1354,BRM,1967,400,8
+1355,Honda,1967,319,9
+1356,Ferrari,1967,399,2
+1357,"Lotus BRM",1967,400,1
+1358,"McLaren BRM",1967,271,6
+1359,BRM,1967,409,2
+1360,"Cooper Maserati",1967,405,1
+1361,"Brabham Repco",1967,398,5
+1362,"Cooper ATS",1967,410,1
+1363,"Eagle Weslake",1967,271,3
+1364,"Cooper Climax",1967,360,1
+1365,"Brabham Climax",1967,411,1
+1366,"Brabham Climax",1967,412,1
+1367,"LDS Climax",1967,379,1
+1368,"Lotus BRM",1967,406,1
+1369,"Eagle Climax",1967,296,2
+1370,"Lotus BRM",1967,307,1
+1371,"Lotus BRM",1967,269,2
+1372,Ferrari,1967,334,1
+1373,BRM,1967,406,1
+1374,"Lotus Climax",1967,307,1
+1375,"Matra Ford",1967,413,1
+1376,"Cooper Maserati",1967,408,2
+1377,"Lotus Ford",1967,337,1
+1378,"Eagle Weslake",1967,370,1
+1379,nan,1967,414,1
+1380,nan,1967,405,1
+1381,"Lola BMW",1967,409,1
+1382,nan,1967,408,1
+1383,nan,1967,415,1
+1384,"Lola BMW",1967,403,1
+1385,nan,1967,407,1
+1386,nan,1967,404,1
+1387,nan,1967,371,1
+1388,"Matra Ford",1967,402,2
+1389,"Lotus Ford",1967,383,2
+1390,"Cooper Maserati",1967,391,1
+1391,"Lotus BRM",1967,416,2
+1392,"Lotus Ford",1967,417,1
+1393,"Eagle Climax",1967,418,1
+1394,Ferrari,1967,419,1
+1395,"Lotus Ford",1968,269,12
+1396,"McLaren Ford",1968,392,11
+1397,"Cooper BRM",1968,420,2
+1398,"Cooper BRM",1968,370,2
+1399,"Matra Ford",1968,402,2
+1400,"McLaren Ford",1968,271,11
+1401,Honda,1968,319,12
+1402,"Lotus Ford",1968,353,11
+1403,Ferrari,1968,369,11
+1404,BRM,1968,406,11
+1405,BRM,1968,382,12
+1406,Ferrari,1968,408,9
+1407,"Brabham Repco",1968,388,12
+1408,"Matra Ford",1968,390,10
+1409,"Lotus Ford",1968,414,8
+1410,"Cooper BRM",1968,308,7
+1411,Matra,1968,402,10
+1412,BRM,1968,391,6
+1413,"Brabham Repco",1968,220,11
+1414,"Mclaren BRM",1968,246,6
+1415,"Brabham Repco",1968,410,2
+1416,"Brabham Repco",1968,296,1
+1417,"Cooper BRM",1968,421,1
+1418,"Cooper BRM",1968,422,7
+1419,"Eagle Weslake",1968,296,5
+1420,"Lotus Ford",1968,307,1
+1421,"Mclaren BRM",1968,392,1
+1422,"Cooper Maserati",1968,353,1
+1423,"Brabham Repco",1968,360,1
+1424,"Brabham Climax",1968,423,1
+1425,"Cooper Maserati",1968,246,1
+1426,"LDS Repco",1968,379,1
+1427,"Cooper Climax",1968,424,1
+1428,Ferrari,1968,425,1
+1429,BRM,1968,380,1
+1430,"Cooper Maserati",1968,420,1
+1431,"Brabham Repco",1968,411,1
+1432,"Cooper Maserati",1968,370,1
+1433,"Matra Ford",1968,413,4
+1434,Honda,1968,409,1
+1435,Ferrari,1968,426,2
+1436,"Cooper BRM",1968,413,1
+1437,Honda,1968,404,1
+1438,"Lola BMW",1968,403,1
+1439,"Brabham Repco",1968,407,1
+1440,"McLaren Ford",1968,296,3
+1441,BRM,1968,427,1
+1442,"Lotus Ford",1968,428,1
+1443,Matra,1968,429,2
+1444,"Lotus Ford",1968,430,1
+1445,Honda,1968,246,1
+1446,"Lotus Ford",1968,383,1
+1447,"Matra Ford",1969,390,11
+1448,"McLaren Ford",1969,271,9
+1449,"Matra Ford",1969,402,11
+1450,"McLaren Ford",1969,392,11
+1451,BRM,1969,319,9
+1452,"Brabham Ford",1969,408,11
+1453,BRM,1969,382,3
+1454,Ferrari,1969,369,6
+1455,"Brabham Ford",1969,220,8
+1456,"Lotus Ford",1969,353,11
+1457,"Lotus Ford",1969,388,10
+1458,"Brabham Ford",1969,406,10
+1459,"Lotus Ford",1969,269,10
+1460,BRM,1969,414,10
+1461,"McLaren Ford",1969,422,4
+1462,"Brabham Ford",1969,410,7
+1463,"Lotus Ford",1969,431,5
+1464,Ferrari,1969,382,5
+1465,"Lotus Ford",1969,246,2
+1466,"McLaren Ford",1969,426,1
+1467,"Brabham Repco",1969,379,1
+1468,"Brabham Repco",1969,377,1
+1469,"Lotus Ford",1969,428,3
+1470,"Lotus Ford",1969,360,1
+1471,"McLaren Ford",1969,424,1
+1472,"Lotus Ford",1969,391,1
+1473,"Cooper Maserati",1969,422,1
+1474,nan,1969,429,1
+1475,nan,1969,391,1
+1476,nan,1969,407,1
+1477,nan,1969,432,1
+1478,nan,1969,433,1
+1479,nan,1969,434,1
+1480,nan,1969,435,1
+1481,nan,1969,413,1
+1482,"Matra Ford",1969,413,3
+1483,BRM,1969,436,2
+1484,"Lotus Ford",1969,331,3
+1485,BRM,1969,430,1
+1486,"Eagle Climax",1969,418,1
+1487,"Brabham Climax",1969,437,1
+1488,"March Ford",1970,390,10
+1489,"McLaren Ford",1970,271,3
+1490,"March Ford",1970,428,5
+1491,"Lotus Ford",1970,269,11
+1492,"March Ford",1970,413,2
+1493,nan,1970,319,1
+1494,"Brabham Ford",1970,220,13
+1495,"Brabham Ford",1970,432,10
+1496,Matra,1970,429,13
+1497,Matra,1970,402,13
+1498,"March Ford",1970,369,13
+1499,"McLaren Ford",1970,392,11
+1500,"Lotus Ford",1970,388,9
+1501,BRM,1970,382,13
+1502,Ferrari,1970,408,13
+1503,BRM,1970,414,13
+1504,Ferrari,1970,438,4
+1505,"March Ford",1970,353,12
+1506,"March Ford",1970,439,9
+1507,"Lotus Ford",1970,431,7
+1508,"De Tomaso Ford",1970,406,4
+1509,"Brabham Ford",1970,426,1
+1510,Ferrari,1970,440,8
+1511,"McLaren Ford",1970,319,3
+1512,"March Ford",1970,435,9
+1513,BRM,1970,436,8
+1514,"McLaren Ford",1970,441,7
+1515,"McLaren Ford",1970,296,3
+1516,"Lotus Ford",1970,442,5
+1517,"Lotus Ford",1970,331,1
+1518,"Surtees Ford",1970,319,7
+1519,"McLaren Alfa Romeo",1970,425,4
+1520,"De Tomaso Ford",1970,443,4
+1521,"Bellasi Ford",1970,410,1
+1522,"Lotus Ford",1970,360,1
+1523,"Brabham Ford",1970,377,1
+1524,"Lotus Ford",1970,411,1
+1525,"Lotus Ford",1970,444,2
+1526,"Surtees Ford",1970,426,1
+1527,"Tyrrell Ford",1970,390,3
+1528,"McLaren Ford",1970,246,1
+1529,"Brabham Ford",1970,445,1
+1530,"Tyrrell Ford",1971,390,11
+1531,Ferrari,1971,408,11
+1532,Matra,1971,369,10
+1533,BRM,1971,382,5
+1534,"McLaren Ford",1971,392,10
+1535,Matra,1971,402,7
+1536,"Tyrrell Ford",1971,435,11
+1537,"McLaren Ford",1971,441,7
+1538,"Brabham Ford",1971,443,10
+1539,BRM,1971,446,9
+1540,"Surtees Ford",1971,319,10
+1541,"Lotus Ford",1971,444,10
+1542,"Lotus Ford",1971,442,10
+1543,"March Ford",1971,429,10
+1544,Ferrari,1971,428,5
+1545,"March Ford",1971,447,3
+1546,"March Alfa Romeo",1971,425,7
+1547,"March Ford",1971,439,10
+1548,Ferrari,1971,440,11
+1549,"Surtees Ford",1971,432,10
+1550,"Brabham Ford",1971,269,11
+1551,BRM,1971,353,11
+1552,"Surtees Ford",1971,448,1
+1553,"March Ford",1971,449,3
+1554,"March Alfa Romeo",1971,450,3
+1555,"Lotus Pratt & Whitney",1971,451,1
+1556,"March Ford",1971,450,4
+1557,"Surtees Ford",1971,426,1
+1558,"March Ford",1971,452,5
+1559,"Lotus Ford",1971,411,1
+1560,"McLaren Ford",1971,414,3
+1561,BRM,1971,441,4
+1562,BRM,1971,453,4
+1563,"March Ford",1971,454,1
+1564,"Surtees Ford",1971,420,1
+1565,"Brabham Ford",1971,411,1
+1566,"March Ford",1971,360,1
+1567,"Brabham Ford",1971,423,1
+1568,"McLaren Ford",1971,246,3
+1569,"Surtees Ford",1971,372,2
+1570,"March Ford",1971,455,1
+1571,"Bellasi Ford",1971,410,1
+1572,"March Ford",1971,456,1
+1573,"March Ford",1971,457,1
+1574,"March Alfa Romeo",1971,439,1
+1575,"March Alfa Romeo",1971,447,1
+1576,BRM,1971,422,1
+1577,"McLaren Ford",1971,409,1
+1578,BRM,1971,458,1
+1579,"Lotus Ford",1971,331,2
+1580,"Brabham Ford",1971,459,1
+1581,"Surtees Ford",1971,460,1
+1582,"Tyrrell Ford",1971,385,1
+1583,"McLaren Ford",1971,461,1
+1584,BRM,1971,436,1
+1585,"Lotus Ford",1972,442,12
+1586,Ferrari,1972,408,12
+1587,Ferrari,1972,440,10
+1588,"Surtees Ford",1972,425,12
+1589,"McLaren Ford",1972,385,9
+1590,"March Ford",1972,462,11
+1591,"Brabham Ford",1972,463,10
+1592,"Surtees Ford",1972,443,12
+1593,"Lotus Ford",1972,451,10
+1594,"Brabham Ford",1972,269,12
+1595,"March Ford",1972,429,8
+1596,"Tyrrell Ford",1972,390,11
+1597,Matra,1972,369,11
+1598,"Tyrrell Ford",1972,435,12
+1599,BRM,1972,441,10
+1600,"McLaren Ford",1972,392,12
+1601,BRM,1972,446,10
+1602,BRM,1972,444,6
+1603,Ferrari,1972,428,5
+1604,"Surtees Ford",1972,372,10
+1605,"March Ford",1972,439,12
+1606,"Eifelland Ford",1972,432,8
+1607,BRM,1972,402,11
+1608,"March Ford",1972,454,12
+1609,BRM,1972,447,2
+1610,BRM,1972,453,5
+1611,"Brabham Ford",1972,464,10
+1612,Tecno,1972,450,4
+1613,"March Ford",1972,452,9
+1614,Ferrari,1972,465,2
+1615,BRM,1972,414,1
+1616,"Lotus Ford",1972,411,3
+1617,"Politoys Ford",1972,429,1
+1618,"Connew Ford",1972,466,1
+1619,"Surtees Ford",1972,360,1
+1620,"McLaren Ford",1972,420,3
+1621,"Surtees Ford",1972,319,1
+1622,Ferrari,1972,450,1
+1623,"Tyrrell Ford",1972,467,2
+1624,Tecno,1972,426,2
+1625,"McLaren Ford",1972,468,1
+1626,"Lotus Ford",1972,444,2
+1627,"Surtees Ford",1972,460,1
+1628,"March Ford",1972,449,2
+1629,BRM,1972,420,1
+1630,BRM,1972,430,1
+1631,"Lotus Ford",1973,442,15
+1632,"Tyrrell Ford",1973,435,14
+1633,"Shadow Ford",1973,469,11
+1634,"McLaren Ford",1973,385,14
+1635,BRM,1973,402,15
+1636,"McLaren Ford",1973,392,15
+1637,"March Ford",1973,452,14
+1638,"March Ford",1973,429,1
+1639,BRM,1973,440,14
+1640,"Brabham Ford",1973,463,15
+1641,"Iso Marlboro Ford",1973,450,5
+1642,Ferrari,1973,408,10
+1643,"Brabham Ford",1973,464,15
+1644,"Iso Marlboro Ford",1973,446,14
+1645,"Lotus Ford",1973,439,15
+1646,"Tyrrell Ford",1973,390,14
+1647,BRM,1973,454,14
+1648,"Shadow Ford",1973,269,12
+1649,"Surtees Ford",1973,372,15
+1650,"Shadow Ford",1973,414,13
+1651,"Brabham Ford",1973,425,5
+1652,"Surtees Ford",1973,462,15
+1653,Tecno,1973,369,4
+1654,"March Ford",1973,455,10
+1655,"March Ford",1973,470,7
+1656,"Iso Marlboro Ford",1973,448,3
+1657,"March Ford",1973,471,4
+1658,"March Ford",1973,472,2
+1659,Ferrari,1973,465,9
+1660,"Surtees Ford",1973,473,1
+1661,"Ensign Ford",1973,474,6
+1662,"Brabham Ford",1973,475,2
+1663,"Iso Marlboro Ford",1973,476,1
+1664,"Surtees Ford",1973,477,3
+1665,"McLaren Ford",1973,468,5
+1666,"Brabham Ford",1973,432,4
+1667,"Surtees Ford",1973,425,1
+1668,"Tyrrell Ford",1973,478,1
+1669,"Iso Marlboro Ford",1973,423,1
+1670,"Lotus Ford",1973,411,1
+1671,"March Ford",1973,444,1
+1672,"Iso Marlboro Ford",1973,429,2
+1673,"McLaren Ford",1973,408,1
+1674,"Iso Marlboro Ford",1973,408,1
+1675,"Shadow Ford",1973,420,1
+1676,"Tyrrell Ford",1973,369,1
+1677,"Iso Marlboro Ford",1973,443,1
+1678,BRM,1973,441,1
+1679,Ferrari,1974,454,15
+1680,Ferrari,1974,440,15
+1681,"McLaren Ford",1974,442,15
+1682,"March Ford",1974,479,12
+1683,"Tyrrell Ford",1974,468,15
+1684,"McLaren Ford",1974,392,15
+1685,"Shadow Ford",1974,420,3
+1686,"Tyrrell Ford",1974,467,15
+1687,"McLaren Ford",1974,372,11
+1688,"Hesketh Ford",1974,470,12
+1689,"Brabham Ford",1974,475,15
+1690,BRM,1974,429,12
+1691,"Surtees Ford",1974,462,7
+1692,"Trojan Ford",1974,443,6
+1693,"Shadow Ford",1974,455,14
+1694,"Lola Ford",1974,269,15
+1695,"Iso Marlboro Ford",1974,465,14
+1696,"Surtees Ford",1974,477,10
+1697,BRM,1974,466,10
+1698,"Lotus Ford",1974,408,15
+1699,"Lotus Ford",1974,439,15
+1700,"Amon Ford",1974,369,1
+1701,"Brabham Ford",1974,474,4
+1702,"Brabham Ford",1974,464,15
+1703,BRM,1974,402,14
+1704,"March Ford",1974,480,11
+1705,"Lola Ford",1974,481,7
+1706,"Iso Marlboro Ford",1974,448,1
+1707,"Ensign Ford",1974,482,5
+1708,"Brabham Ford",1974,483,1
+1709,"Token Ford",1974,484,1
+1710,"Brabham Ford",1974,485,1
+1711,"Shadow Ford",1974,484,8
+1712,"March Ford",1974,446,2
+1713,"Brabham Ford",1974,486,3
+1714,"March Ford",1974,470,2
+1715,"Shadow Ford",1974,385,2
+1716,"Brabham Ford",1974,462,6
+1717,"Lola Ford",1974,441,1
+1718,"McLaren Ford",1974,409,2
+1719,"Surtees Ford",1974,487,1
+1720,"Token Ford",1974,488,2
+1721,"Iso Marlboro Ford",1974,489,5
+1722,"Lola Ford",1974,432,4
+1723,"Lotus Ford",1974,490,1
+1724,"Tyrrell Ford",1974,478,1
+1725,"McLaren Ford",1974,411,1
+1726,"Lotus Ford",1974,491,1
+1727,"Iso Marlboro Ford",1974,492,2
+1728,"March Ford",1974,444,1
+1729,"Surtees Ford",1974,493,1
+1730,"Shadow Ford",1974,494,1
+1731,"Surtees Ford",1974,426,1
+1732,"McLaren Ford",1974,477,2
+1733,BRM,1974,369,2
+1734,"Ensign Ford",1974,495,1
+1735,"Penske Ford",1974,461,2
+1736,"Surtees Ford",1974,496,1
+1737,"Surtees Ford",1974,497,2
+1738,"Lotus Ford",1974,443,1
+1739,"Parnelli Ford",1974,428,2
+1740,"Brabham Ford",1974,417,1
+1741,"McLaren Ford",1975,477,14
+1742,"Lotus Ford",1975,408,9
+1743,"Brabham Ford",1975,464,14
+1744,"Shadow Ford",1975,455,11
+1745,"March Ford",1975,480,14
+1746,"March Ford",1975,498,10
+1747,"Frank Williams Racing Cars/Williams",1975,499,1
+1748,"Surtees Ford",1975,475,11
+1749,"Hill Ford",1975,432,4
+1750,"Brabham Ford",1975,462,14
+1751,Ferrari,1975,440,14
+1752,"Lotus Ford",1975,439,14
+1753,"Shadow Ford",1975,484,14
+1754,"Ensign Ford",1975,500,3
+1755,"Hill Ford",1975,466,2
+1756,"Parnelli Ford",1975,428,12
+1757,BRM,1975,501,8
+1758,"Hesketh Ford",1975,470,14
+1759,"Tyrrell Ford",1975,468,14
+1760,"Penske Ford",1975,461,9
+1761,"Hesketh Ford",1975,502,4
+1762,"Tyrrell Ford",1975,467,14
+1763,"Frank Williams Racing Cars/Williams",1975,465,5
+1764,"Fittipaldi Ford",1975,463,11
+1765,Ferrari,1975,454,14
+1766,"McLaren Ford",1975,442,13
+1767,"Frank Williams Racing Cars/Williams",1975,489,10
+1768,"Hill Ford",1975,499,9
+1769,"Ensign Ford",1975,448,3
+1770,"Frank Williams Racing Cars/Williams",1975,490,2
+1771,"Hill Ford",1975,502,4
+1772,"Lola Ford",1975,269,2
+1773,"Lola Ford",1975,432,2
+1774,BRM,1975,495,2
+1775,"March Ford",1975,461,2
+1776,"Lotus Ford",1975,503,2
+1777,"Lyncar Ford",1975,504,1
+1778,"Surtees Ford",1975,505,1
+1779,"March Ford",1975,479,5
+1780,"Lotus Ford",1975,506,2
+1781,"Ensign Ford",1975,369,2
+1782,"Hesketh Ford",1975,507,3
+1783,"Hesketh Ford",1975,508,3
+1784,"Frank Williams Racing Cars/Williams",1975,509,1
+1785,"Shadow Matra",1975,455,2
+1786,"Lotus Ford",1975,510,1
+1787,"Lotus Ford",1975,478,1
+1788,"McLaren Ford",1975,411,1
+1789,"Tyrrell Ford",1975,490,1
+1790,"Hesketh Ford",1975,511,1
+1791,"Frank Williams Racing Cars/Williams",1975,512,1
+1792,"Hill Ford",1975,482,1
+1793,"Fittipaldi Ford",1975,465,1
+1794,"Frank Williams Racing Cars/Williams",1975,513,1
+1795,"Tyrrell Ford",1975,514,1
+1796,"Lotus Ford",1975,475,1
+1797,"Penske Ford",1975,475,1
+1798,"Tyrrell Ford",1975,515,1
+1799,"McLaren Ford",1976,470,16
+1800,Ferrari,1976,454,14
+1801,"Lotus Ford",1976,516,15
+1802,"Brabham Alfa Romeo",1976,464,12
+1803,"Ensign Ford",1976,369,8
+1804,"Brabham Alfa Romeo",1976,462,16
+1805,Wolf-Williams,1976,408,4
+1806,"Shadow Ford",1976,484,16
+1807,"Surtees Ford",1976,502,14
+1808,Wolf-Williams,1976,515,6
+1809,Ferrari,1976,440,15
+1810,"Ligier Matra",1976,489,16
+1811,"Boro Ford",1976,517,5
+1812,"McLaren Ford",1976,477,16
+1813,"Shadow Ford",1976,455,16
+1814,"Tyrrell Ford",1976,468,16
+1815,"Penske Ford",1976,475,16
+1816,"March Ford",1976,465,5
+1817,"Lotus Ford",1976,428,13
+1818,"Tyrrell Ford",1976,467,16
+1819,"March Ford",1976,480,16
+1820,"March Ford",1976,479,16
+1821,"March Ford",1976,439,15
+1822,"Fittipaldi Ford",1976,442,15
+1823,nan,1976,518,3
+1824,"Surtees Ford",1976,507,10
+1825,"Hesketh Ford",1976,508,11
+1826,nan,1976,519,1
+1827,"Surtees Ford",1976,429,7
+1828,"Hesketh Ford",1976,432,1
+1829,"Ensign Ford",1976,408,4
+1830,"Penske Ford",1976,520,1
+1831,"Surtees Ford",1976,521,1
+1832,Wolf-Williams,1976,465,6
+1833,Wolf-Williams,1976,513,1
+1834,"Fittipaldi Ford",1976,522,1
+1835,"March Ford",1976,498,1
+1836,"Lotus Ford",1976,439,1
+1837,BRM,1976,488,1
+1838,"Brabham Alfa Romeo",1976,501,1
+1839,"Hesketh Ford",1976,481,4
+1840,"Tyrrell Ford",1976,523,3
+1841,nan,1976,498,1
+1842,"Ensign Ford",1976,524,1
+1843,"Parnelli Ford",1976,428,2
+1844,"Lotus Ford",1976,501,1
+1845,"Tyrrell Ford",1976,490,1
+1846,"Hesketh Ford",1976,525,1
+1847,Wolf-Williams,1976,526,1
+1848,"Brabham Alfa Romeo",1976,517,3
+1849,Ferrari,1976,464,1
+1850,"Brabham Alfa Romeo",1976,432,2
+1851,"Ensign Ford",1976,519,1
+1852,"Surtees Ford",1976,527,1
+1853,"Kojima Ford",1976,528,1
+1854,Wolf-Williams,1976,524,1
+1855,"Tyrrell Ford",1976,529,1
+1856,"Lotus Ford",1977,428,17
+1857,Ferrari,1977,464,17
+1858,"Wolf Ford",1977,468,17
+1859,"McLaren Ford",1977,477,17
+1860,"Lotus Ford",1977,516,16
+1861,"Brabham Alfa Romeo",1977,479,14
+1862,"Ligier Matra",1977,489,17
+1863,"Tyrrell Ford",1977,439,17
+1864,"Surtees Ford",1977,524,9
+1865,"March Ford",1977,507,3
+1866,"March Ford",1977,490,13
+1867,"March Ford",1977,519,8
+1868,"McLaren Ford",1977,530,2
+1869,"Fittipaldi Ford",1977,442,14
+1870,"Brabham Alfa Romeo",1977,475,17
+1871,"Shadow Ford",1977,502,14
+1872,"Hesketh Ford",1977,531,12
+1873,"Hesketh Ford",1977,508,3
+1874,"Shadow Ford",1977,513,5
+1875,"March Ford",1977,465,4
+1876,"Tyrrell Ford",1977,467,17
+1877,"McLaren Ford",1977,470,17
+1878,"Ensign Ford",1977,440,15
+1879,"Surtees Ford",1977,480,17
+1880,Ferrari,1977,454,14
+1881,"Penske Ford",1977,455,10
+1882,"Surtees Ford",1977,517,1
+1883,"LEC Ford",1977,471,3
+1884,"March Ford",1977,520,2
+1885,"Shadow Ford",1977,532,9
+1886,"Ensign Ford",1977,533,7
+1887,"Penske Ford",1977,524,2
+1888,"McLaren Ford",1977,507,8
+1889,"March Ford",1977,525,9
+1890,"Boro Ford",1977,503,1
+1891,Renault,1977,514,4
+1892,"Brabham Alfa Romeo",1977,462,3
+1893,"Shadow Ford",1977,484,3
+1894,"Fittipaldi Ford",1977,522,2
+1895,BRM,1977,517,2
+1896,"McLaren Ford",1977,534,1
+1897,"Surtees Ford",1977,482,3
+1898,"Shadow Ford",1977,465,1
+1899,"March Ford",1977,479,1
+1900,"Shadow Ford",1977,455,1
+1901,"Hesketh Ford",1977,488,1
+1902,"Penske Ford",1977,535,2
+1903,"Shadow Ford",1977,414,1
+1904,"Ensign Ford",1977,408,1
+1905,"March Ford",1977,503,1
+1906,"McLaren Ford",1977,536,1
+1907,"Tyrrell Ford",1977,537,1
+1908,"Kojima Ford",1977,529,1
+1909,Ferrari,1977,534,2
+1910,"Ligier Matra",1977,455,1
+1911,"Kojima Ford",1977,527,1
+1912,"Hesketh Ford",1977,538,1
+1913,"Penske Ford",1977,539,1
+1914,"Lotus Ford",1978,428,16
+1915,"Lotus Ford",1978,439,14
+1916,"Ligier Matra",1978,489,16
+1917,"Wolf Ford",1978,468,16
+1918,"Brabham Alfa Romeo",1978,475,16
+1919,"McLaren Ford",1978,470,16
+1920,"Surtees Ford",1978,480,12
+1921,"Williams Ford",1978,502,16
+1922,"ATS Ford",1978,477,10
+1923,Ferrari,1978,534,16
+1924,"Surtees Ford",1978,531,8
+1925,"Tyrrell Ford",1978,540,16
+1926,Renault,1978,514,14
+1927,"Arrows Ford",1978,432,9
+1928,"Shadow Ford",1978,440,12
+1929,"Ensign Ford",1978,408,3
+1930,"Fittipaldi Ford",1978,442,16
+1931,Ferrari,1978,464,16
+1932,"Brabham Alfa Romeo",1978,454,16
+1933,"Tyrrell Ford",1978,467,16
+1934,"Shadow Ford",1978,479,16
+1935,"Lotus Ford",1978,538,9
+1936,"Arrows Ford",1978,532,14
+1937,"McLaren Ford",1978,533,15
+1938,"McLaren Ford",1978,507,9
+1939,"McLaren Ford",1978,536,5
+1940,"Martini Ford",1978,541,5
+1941,"Merzario Ford",1978,465,8
+1942,"Wolf Ford",1978,542,3
+1943,"McLaren Ford",1978,543,3
+1944,"Ensign Ford",1978,544,6
+1945,"ATS Ford",1978,455,4
+1946,"Ensign Ford",1978,535,2
+1947,"Ensign Ford",1978,545,3
+1948,"ATS Ford",1978,542,5
+1949,"Ensign Ford",1978,508,2
+1950,"Theodore Ford",1978,542,1
+1951,"Hesketh Ford",1978,546,1
+1952,"Surtees Ford",1978,541,2
+1953,"Wolf Ford",1978,547,2
+1954,"Ensign Ford",1978,507,1
+1955,"Lotus Ford",1978,455,2
+1956,"ATS Ford",1978,548,1
+1957,"Ensign Ford",1978,543,1
+1958,"Brabham Alfa Romeo",1978,543,1
+1959,"Ligier Ford",1979,467,7
+1960,"Lotus Ford",1979,464,15
+1961,"Lotus Ford",1979,428,15
+1962,Ferrari,1979,468,15
+1963,"Tyrrell Ford",1979,455,13
+1964,"Tyrrell Ford",1979,540,15
+1965,Ferrari,1979,534,15
+1966,"Arrows Ford",1979,477,13
+1967,Renault,1979,541,15
+1968,"Arrows Ford",1979,532,15
+1969,"Fittipaldi Ford",1979,442,15
+1970,"Shadow Ford",1979,549,12
+1971,"McLaren Ford",1979,533,13
+1972,"ATS Ford",1979,479,14
+1973,"Brabham Alfa Romeo",1979,454,13
+1974,"Lotus Ford",1979,538,9
+1975,"Williams Ford",1979,502,15
+1976,"Shadow Ford",1979,550,14
+1977,"Williams Ford",1979,440,15
+1978,"Wolf Ford",1979,470,7
+1979,"McLaren Ford",1979,475,15
+1980,Renault,1979,514,15
+1981,"Ligier Ford",1979,489,15
+1982,"Brabham Alfa Romeo",1979,543,13
+1983,"Alfa Romeo",1979,536,4
+1984,"Ligier Ford",1979,408,8
+1985,"Wolf Ford",1979,542,7
+1986,"Ensign Ford",1979,544,3
+1987,"Merzario Ford",1979,465,2
+1988,"Ensign Ford",1979,551,2
+1989,"Tyrrell Ford",1979,544,3
+1990,"Brabham Ford",1979,543,2
+1991,"Ensign Ford",1979,552,1
+1992,"Brabham Ford",1979,553,2
+1993,"Alfa Romeo",1979,480,2
+1994,"Tyrrell Ford",1979,554,1
+1995,"Rebaque Ford",1979,538,1
+1996,"Ligier Ford",1980,540,14
+1997,"Williams Ford",1980,502,14
+1998,"Williams Ford",1980,464,14
+1999,Renault,1980,541,14
+2000,"Tyrrell Ford",1980,455,14
+2001,Ferrari,1980,534,14
+2002,"Fittipaldi Ford",1980,542,13
+2003,Ferrari,1980,468,13
+2004,"Tyrrell Ford",1980,544,14
+2005,"Lotus Ford",1980,550,14
+2006,"Ligier Ford",1980,489,14
+2007,"ATS Ford",1980,549,6
+2008,"McLaren Ford",1980,475,14
+2009,"Arrows Ford",1980,532,14
+2010,"Lotus Ford",1980,428,14
+2011,"Alfa Romeo",1980,467,8
+2012,"Brabham Ford",1980,543,14
+2013,"McLaren Ford",1980,555,13
+2014,"Fittipaldi Ford",1980,442,14
+2015,"Ensign Ford",1980,556,2
+2016,"Alfa Romeo",1980,536,14
+2017,"Brabham Ford",1980,553,7
+2018,Renault,1980,514,13
+2019,"Arrows Ford",1980,477,13
+2020,"Shadow Ford",1980,554,4
+2021,"Shadow Ford",1980,557,6
+2022,"Osella Ford",1980,546,14
+2023,"ATS Ford",1980,552,10
+2024,"Ensign Ford",1980,554,2
+2025,"Alfa Romeo",1980,480,2
+2026,"Lotus Ford",1980,558,3
+2027,"Brabham Ford",1980,538,7
+2028,"Williams Ford",1980,531,6
+2029,"Ensign Ford",1980,549,7
+2030,"Arrows Ford",1980,559,1
+2031,"Ensign Ford",1980,440,4
+2032,"Shadow Ford",1980,560,2
+2033,"Alfa Romeo",1980,561,2
+2034,"Tyrrell Ford",1980,559,2
+2035,"Arrows Ford",1980,562,1
+2036,"ATS Ford",1980,508,1
+2037,Ferrari,1981,534,15
+2038,"Ligier Matra",1981,489,15
+2039,"McLaren Ford",1981,475,15
+2040,"Williams Ford",1981,464,15
+2041,"Lotus Ford",1981,550,14
+2042,"Lotus Ford",1981,558,13
+2043,"Williams Ford",1981,502,15
+2044,"Alfa Romeo",1981,428,15
+2045,Renault,1981,541,14
+2046,"Alfa Romeo",1981,536,15
+2047,"Fittipaldi Ford",1981,563,5
+2048,"Fittipaldi Ford",1981,542,9
+2049,"Theodore Ford",1981,533,6
+2050,"Ensign Ford",1981,564,8
+2051,Ferrari,1981,540,15
+2052,"March Ford",1981,544,8
+2053,"Tyrrell Ford",1981,546,14
+2054,"Ligier Matra",1981,514,3
+2055,"Brabham Ford",1981,538,14
+2056,"Arrows Ford",1981,565,9
+2057,"Brabham Ford",1981,543,15
+2058,Renault,1981,555,15
+2059,"Arrows Ford",1981,532,15
+2060,"McLaren Ford",1981,561,14
+2061,"Ensign Ford",1981,552,6
+2062,"Tyrrell Ford",1981,566,10
+2063,"Osella Hart",1981,567,1
+2064,"Osella Hart",1981,568,3
+2065,"Theodore Ford",1981,552,7
+2066,"ATS Ford",1981,569,7
+2067,"Osella Hart",1981,455,7
+2068,"Ligier Matra",1981,533,8
+2069,"ATS Ford",1981,549,2
+2070,"Tyrrell Ford",1981,553,2
+2071,"Ligier Matra",1981,455,2
+2072,"Toleman Hart",1981,570,1
+2073,"Toleman Hart",1981,503,1
+2074,"March Ford",1981,564,1
+2075,"Osella Hart",1981,571,1
+2076,"McLaren Ford",1982,475,15
+2077,"Williams Ford",1982,542,15
+2078,"McLaren Ford",1982,454,14
+2079,"Ligier Matra",1982,546,14
+2080,"Lotus Ford",1982,550,15
+2081,"Brabham BMW",1982,543,12
+2082,"Fittipaldi Ford",1982,563,9
+2083,"Arrows Ford",1982,552,12
+2084,"March Ford",1982,572,10
+2085,"Ligier Matra",1982,489,15
+2086,"Williams Ford",1982,544,12
+2087,"March Ford",1982,477,9
+2088,Renault,1982,555,16
+2089,"Brabham BMW",1982,532,10
+2090,"Arrows Ford",1982,573,11
+2091,"Osella Ford",1982,455,13
+2092,"Alfa Romeo",1982,561,16
+2093,"Tyrrell Ford",1982,503,13
+2094,"Tyrrell Ford",1982,566,16
+2095,"Toleman Hart",1982,570,10
+2096,"Toleman Hart",1982,574,7
+2097,"Lotus Ford",1982,558,13
+2098,Renault,1982,541,16
+2099,"ATS Ford",1982,562,13
+2100,"ATS Ford",1982,564,13
+2101,"Alfa Romeo",1982,536,16
+2102,Ferrari,1982,540,10
+2103,Ferrari,1982,533,6
+2104,"Theodore Ford",1982,549,1
+2105,"Brabham Ford",1982,543,2
+2106,"Tyrrell Ford",1982,569,3
+2107,"Brabham Ford",1982,532,5
+2108,Ferrari,1982,534,4
+2109,"Williams Ford",1982,464,2
+2110,"Theodore Ford",1982,544,3
+2111,"Ensign Ford",1982,575,8
+2112,"Theodore Ford",1982,576,2
+2113,"March Ford",1982,531,3
+2114,Ferrari,1982,428,2
+2115,"Arrows Ford",1982,503,1
+2116,"Williams Ford",1982,428,1
+2117,"Lotus Ford",1982,554,1
+2118,"Osella Ford",1982,577,2
+2119,"Theodore Ford",1982,554,1
+2120,"Brabham BMW",1983,543,15
+2121,Renault,1983,555,15
+2122,"Lotus Renault",1983,558,7
+2123,"Alfa Romeo",1983,561,14
+2124,"Toleman Hart",1983,570,15
+2125,"Toleman Hart",1983,536,14
+2126,"Brabham BMW",1983,532,14
+2127,"ATS BMW",1983,562,13
+2128,Ferrari,1983,541,15
+2129,Renault,1983,546,15
+2130,"Arrows Ford",1983,578,10
+2131,"Theodore Ford",1983,575,12
+2132,"Williams Ford",1983,579,1
+2133,"Spirit Honda",1983,560,6
+2134,"Ligier Ford",1983,572,13
+2135,Ferrari,1983,533,14
+2136,"Tyrrell Ford",1983,566,14
+2137,"Osella Alfa Romeo",1983,567,7
+2138,"Arrows Ford",1983,552,13
+2139,"Williams Ford",1983,542,13
+2140,"Alfa Romeo",1983,573,15
+2141,"McLaren TAG",1983,475,2
+2142,"Tyrrell Ford",1983,580,13
+2143,"McLaren TAG",1983,454,4
+2144,"Lotus Renault",1983,550,13
+2145,"Williams Ford",1983,489,12
+2146,"Theodore Ford",1983,581,9
+2147,"McLaren Ford",1983,454,9
+2148,"Lotus Ford",1983,558,7
+2149,"Osella Ford",1983,582,5
+2150,"McLaren Ford",1983,475,11
+2151,"Ligier Ford",1983,455,13
+2152,"Osella Alfa Romeo",1983,582,4
+2153,"Arrows Ford",1983,563,4
+2154,"RAM Ford",1983,564,2
+2155,"Williams Honda",1983,542,1
+2156,"RAM Ford",1983,583,1
+2157,"Williams Honda",1983,489,1
+2158,"Arrows Ford",1983,502,1
+2159,"McLaren TAG",1984,555,16
+2160,Ferrari,1984,566,16
+2161,"Brabham BMW",1984,543,16
+2162,"McLaren TAG",1984,454,16
+2163,Ferrari,1984,541,16
+2164,"Alfa Romeo",1984,532,16
+2165,"Ligier Renault",1984,561,15
+2166,"Spirit Hart",1984,573,7
+2167,"Arrows BMW",1984,578,12
+2168,"Ligier Renault",1984,584,13
+2169,Renault,1984,570,15
+2170,"Osella Alfa Romeo",1984,585,7
+2171,"Brabham BMW",1984,574,12
+2172,"Lotus Renault",1984,558,16
+2173,Renault,1984,533,13
+2174,"Alfa Romeo",1984,546,14
+2175,"RAM Hart",1984,586,12
+2176,"RAM Hart",1984,579,14
+2177,"Williams Honda",1984,489,16
+2178,"Lotus Renault",1984,550,16
+2179,"Toleman Hart",1984,560,3
+2180,"Williams Honda",1984,542,15
+2181,"Toleman Hart",1984,587,13
+2182,"Arrows Ford",1984,552,5
+2183,"ATS BMW",1984,562,10
+2184,"Osella Alfa Romeo",1984,567,13
+2185,"Toleman Hart",1984,581,9
+2186,"Spirit Hart",1984,588,7
+2187,"Arrows BMW",1984,552,8
+2188,"Arrows Ford",1984,578,3
+2189,"ATS BMW",1984,589,3
+2190,"Brabham BMW",1984,582,3
+2191,"Brabham BMW",1984,562,1
+2192,Renault,1984,590,1
+2193,"RAM Hart",1984,559,1
+2194,"Williams Honda",1985,558,15
+2195,"Lotus Renault",1985,587,16
+2196,"Williams Honda",1985,542,16
+2197,"McLaren TAG",1985,555,15
+2198,"Lotus Renault",1985,550,15
+2199,"Arrows BMW",1985,578,16
+2200,"McLaren TAG",1985,475,1
+2201,"Ligier Renault",1985,590,4
+2202,"Alfa Romeo",1985,532,16
+2203,"Arrows BMW",1985,589,16
+2204,"Alfa Romeo",1985,546,16
+2205,Renault,1985,533,15
+2206,"Brabham BMW",1985,552,12
+2207,Ferrari,1985,560,15
+2208,"Ligier Renault",1985,489,15
+2209,Zakspeed,1985,591,2
+2210,"Tyrrell Renault",1985,592,2
+2211,"Tyrrell Renault",1985,593,8
+2212,"Toleman Hart",1985,574,13
+2213,"RAM Hart",1985,586,13
+2214,"Toleman Hart",1985,567,6
+2215,"Lola Hart",1985,502,3
+2216,Ferrari,1985,566,16
+2217,"Brabham BMW",1985,543,16
+2218,Renault,1985,570,15
+2219,"Minardi Motori Moderni",1985,594,13
+2220,"Osella Alfa Romeo",1985,588,7
+2221,"McLaren TAG",1985,454,14
+2222,"Tyrrell Renault",1985,595,3
+2223,"Ligier Renault",1985,561,11
+2224,Zakspeed,1985,579,7
+2225,Ferrari,1985,541,1
+2226,"Tyrrell Ford",1985,560,1
+2227,"Tyrrell Ford",1985,593,7
+2228,"Osella Alfa Romeo",1985,567,7
+2229,"RAM Hart",1985,562,8
+2230,"Minardi Ford",1985,594,2
+2231,"Brabham BMW",1985,584,3
+2232,"Spirit Hart",1985,573,3
+2233,"Tyrrell Ford",1985,595,6
+2234,"RAM Hart",1985,583,2
+2235,"Tyrrell Renault",1985,590,1
+2236,Renault,1985,584,1
+2237,"Lotus Renault",1986,587,16
+2238,"Williams Honda",1986,558,16
+2239,"McLaren TAG",1986,555,16
+2240,"McLaren TAG",1986,542,16
+2241,"Benetton BMW",1986,574,16
+2242,"Benetton BMW",1986,589,16
+2243,"Arrows BMW",1986,578,16
+2244,"Lola Hart",1986,533,3
+2245,"Lotus Renault",1986,596,15
+2246,"Tyrrell Renault",1986,593,16
+2247,"Ligier Renault",1986,489,8
+2248,"Williams Honda",1986,543,16
+2249,"Arrows BMW",1986,552,5
+2250,"Brabham BMW",1986,550,4
+2251,"Ligier Renault",1986,541,16
+2252,Ferrari,1986,566,16
+2253,"Tyrrell Renault",1986,590,16
+2254,"Osella Alfa Romeo",1986,591,5
+2255,Ferrari,1986,560,16
+2256,"Osella Alfa Romeo",1986,567,14
+2257,"Brabham BMW",1986,532,16
+2258,"Minardi Motori Moderni",1986,561,15
+2259,"Lola Hart",1986,502,2
+2260,Zakspeed,1986,579,16
+2261,"Minardi Motori Moderni",1986,597,15
+2262,"Lola Ford",1986,502,14
+2263,Zakspeed,1986,588,12
+2264,"Lola Ford",1986,533,11
+2265,"Brabham BMW",1986,570,10
+2266,"Arrows BMW",1986,591,9
+2267,"Lola Ford",1986,546,1
+2268,"Osella Alfa Romeo",1986,598,8
+2269,"Ligier Renault",1986,586,7
+2270,"AGS Motori Moderni",1986,592,2
+2271,"Osella Alfa Romeo",1986,599,1
+2272,"Williams Honda",1987,558,14
+2273,"McLaren TAG",1987,555,16
+2274,"McLaren TAG",1987,560,16
+2275,"Williams Honda",1987,543,15
+2276,"Lotus Honda",1987,587,15
+2277,"Lola Ford",1987,586,15
+2278,"Tyrrell Ford",1987,590,15
+2279,"Arrows Megatron",1987,546,16
+2280,"Lotus Honda",1987,600,16
+2281,"Arrows Megatron",1987,570,16
+2282,Zakspeed,1987,593,16
+2283,"March Ford",1987,592,15
+2284,"Brabham BMW",1987,532,15
+2285,"Minardi Motori Moderni",1987,601,15
+2286,Ferrari,1987,566,16
+2287,"Benetton Ford",1987,578,16
+2288,Ferrari,1987,589,16
+2289,"Tyrrell Ford",1987,579,16
+2290,"Ligier Megatron",1987,541,14
+2291,Zakspeed,1987,591,14
+2292,"Minardi Motori Moderni",1987,597,16
+2293,"Benetton Ford",1987,574,16
+2294,"Brabham BMW",1987,561,16
+2295,"Ligier Megatron",1987,567,14
+2296,"AGS Ford",1987,602,11
+2297,"Coloni Ford",1987,603,1
+2298,"Osella Alfa Romeo",1987,599,13
+2299,"Osella Alfa Romeo",1987,604,2
+2300,"Lola Ford",1987,605,3
+2301,"AGS Ford",1987,606,2
+2302,"Osella Alfa Romeo",1987,607,1
+2303,"Williams Honda",1987,532,1
+2304,"Brabham BMW",1987,608,1
+2305,"McLaren Honda",1988,555,16
+2306,"Williams Judd",1988,558,14
+2307,"Benetton Ford",1988,597,16
+2308,"McLaren Honda",1988,587,16
+2309,"Williams Judd",1988,532,16
+2310,Ferrari,1988,589,16
+2311,"March Judd",1988,609,15
+2312,"Lotus Honda",1988,543,15
+2313,"Benetton Ford",1988,578,16
+2314,"Dallara Ford",1988,599,13
+2315,"Lola Ford",1988,605,13
+2316,"Minardi Ford",1988,610,13
+2317,"Euro Brun Ford",1988,608,10
+2318,"Lola Ford",1988,586,15
+2319,"Ligier Judd",1988,560,10
+2320,"Arrows Megatron",1988,546,16
+2321,"March Judd",1988,592,15
+2322,"Arrows Megatron",1988,570,16
+2323,"Rial Ford",1988,561,15
+2324,"AGS Ford",1988,590,15
+2325,Ferrari,1988,566,15
+2326,"Minardi Ford",1988,594,9
+2327,"Lotus Honda",1988,600,14
+2328,Osella,1988,603,10
+2329,"Tyrrell Ford",1988,579,14
+2330,"Williams Judd",1988,593,1
+2331,Zakspeed,1988,611,6
+2332,"Coloni Ford",1988,607,8
+2333,Zakspeed,1988,567,8
+2334,"Ligier Judd",1988,541,13
+2335,"Minardi Ford",1988,601,2
+2336,"Tyrrell Ford",1988,612,5
+2337,"Euro Brun Ford",1988,613,7
+2338,"Williams Judd",1988,614,1
+2339,"Lola Ford",1988,615,1
+2340,"McLaren Honda",1989,587,14
+2341,Ferrari,1989,589,14
+2342,"McLaren Honda",1989,555,15
+2343,"Tyrrell Ford",1989,616,8
+2344,"Williams Renault",1989,532,16
+2345,"Lola Lamborghini",1989,586,14
+2346,"Dallara Ford",1989,561,14
+2347,"Lotus Judd",1989,543,15
+2348,"Arrows Ford",1989,570,15
+2349,"Tyrrell Ford",1989,579,15
+2350,"Arrows Ford",1989,546,14
+2351,"Benetton Ford",1989,617,9
+2352,"Dallara Ford",1989,599,14
+2353,"Brabham Judd",1989,593,14
+2354,"March Judd",1989,609,15
+2355,"Minardi Ford",1989,610,10
+2356,"Williams Renault",1989,578,16
+2357,"Ligier Ford",1989,618,11
+2358,"Minardi Ford",1989,594,14
+2359,"March Judd",1989,592,16
+2360,"Onyx Ford",1989,619,2
+2361,"Osella Ford",1989,567,3
+2362,"Benetton Ford",1989,597,15
+2363,"Brabham Judd",1989,608,14
+2364,"Osella Ford",1989,603,7
+2365,Ferrari,1989,558,13
+2366,"Onyx Ford",1989,560,8
+2367,"Onyx Ford",1989,620,5
+2368,"Lola Lamborghini",1989,566,5
+2369,"Ligier Ford",1989,541,9
+2370,"Tyrrell Ford",1989,621,1
+2371,"Benetton Ford",1989,621,5
+2372,"Lotus Judd",1989,600,12
+2373,"Tyrrell Ford",1989,566,4
+2374,"Rial Ford",1989,591,4
+2375,"Zakspeed Yamaha",1989,611,2
+2376,"Lola Lamborghini",1989,622,2
+2377,"Coloni Ford",1989,606,4
+2378,"AGS Ford",1989,607,6
+2379,"Coloni Ford",1989,623,1
+2380,"Arrows Ford",1989,624,1
+2381,Ferrari,1990,555,15
+2382,Ferrari,1990,558,16
+2383,"Benetton Ford",1990,597,14
+2384,"Williams Renault",1990,578,16
+2385,"Williams Renault",1990,532,16
+2386,"Lola Lamborghini",1990,615,15
+2387,"Ligier Ford",1990,603,16
+2388,"Leyton House Judd",1990,609,11
+2389,"AGS Ford",1990,605,5
+2390,"Arrows Ford",1990,566,13
+2391,"Lotus Lamborghini",1990,570,16
+2392,"Leyton House Judd",1990,592,13
+2393,"McLaren Honda",1990,589,16
+2394,"McLaren Honda",1990,587,15
+2395,"Benetton Ford",1990,543,15
+2396,"Dallara Ford",1990,561,13
+2397,"Osella Ford",1990,618,9
+2398,"Minardi Ford",1990,594,14
+2399,"Ligier Ford",1990,586,13
+2400,"Lola Lamborghini",1990,622,16
+2401,"Tyrrell Ford",1990,600,14
+2402,"AGS Ford",1990,607,4
+2403,"Brabham Judd",1990,608,14
+2404,"Tyrrell Ford",1990,616,14
+2405,"Arrows Ford",1990,599,11
+2406,"Lotus Lamborghini",1990,624,12
+2407,"Brabham Judd",1990,625,8
+2408,"Dallara Ford",1990,617,11
+2409,"Dallara Ford",1990,626,1
+2410,"Minardi Ford",1990,627,7
+2411,"Brabham Judd",1990,628,2
+2412,"Onyx Ford",1990,628,5
+2413,"Onyx Ford",1990,619,5
+2414,"Benetton Ford",1990,606,2
+2415,"Lotus Lamborghini",1990,621,2
+2416,"Minardi Ford",1990,626,2
+2417,"Arrows Ford",1990,611,1
+2418,"Euro Brun Judd",1990,606,1
+2419,"Williams Renault",1991,558,15
+2420,Ferrari,1991,555,14
+2421,"Williams Renault",1991,532,16
+2422,Ferrari,1991,616,16
+2423,"McLaren Honda",1991,587,16
+2424,"Benetton Ford",1991,629,5
+2425,"Leyton House Ilmor",1991,609,16
+2426,"Dallara Judd",1991,619,16
+2427,"Jordan Ford",1991,630,3
+2428,"Brabham Yamaha",1991,593,14
+2429,"Benetton Ford",1991,543,15
+2430,"Fondmetal Ford",1991,607,2
+2431,"Minardi Ferrari",1991,594,16
+2432,"Minardi Ferrari",1991,626,15
+2433,"Dallara Judd",1991,617,13
+2434,"Tyrrell Honda",1991,608,16
+2435,"Tyrrell Honda",1991,600,16
+2436,"Brabham Yamaha",1991,631,14
+2437,"Ligier Lamborghini",1991,632,13
+2438,"McLaren Honda",1991,589,16
+2439,"Footwork Porsche",1991,566,9
+2440,"Jordan Ford",1991,561,15
+2441,"Lotus Judd",1991,633,15
+2442,"Leyton House Ilmor",1991,592,14
+2443,"Benetton Ford",1991,606,11
+2444,"Lotus Judd",1991,621,7
+2445,"Fondmetal Ford",1991,618,4
+2446,"Ligier Lamborghini",1991,578,15
+2447,"Lola Ford",1991,622,12
+2448,"Jordan Ford",1991,620,9
+2449,"Lola Ford",1991,615,11
+2450,"Lambo Lamborghini",1991,603,4
+2451,"Jordan Ford",1991,606,2
+2452,"AGS Ford",1991,607,2
+2453,"Footwork Porsche",1991,599,2
+2454,"Leyton House Ilmor",1991,634,2
+2455,"Lotus Judd",1991,612,1
+2456,"Lambo Lamborghini",1991,635,1
+2457,"Footwork Porsche",1991,560,1
+2458,Ferrari,1991,626,1
+2459,"Minardi Ferrari",1991,606,1
+2460,"Williams Renault",1992,558,16
+2461,"Benetton Ford",1992,629,16
+2462,Ferrari,1992,616,16
+2463,"McLaren Honda",1992,589,15
+2464,"Footwork Mugen Honda",1992,566,15
+2465,"Dallara Ferrari",1992,594,13
+2466,"Footwork Mugen Honda",1992,615,14
+2467,"March Ilmor",1992,634,13
+2468,"McLaren Honda",1992,587,15
+2469,Ferrari,1992,592,13
+2470,"Minardi Lamborghini",1992,636,10
+2471,"March Ilmor",1992,637,5
+2472,"Dallara Ferrari",1992,619,15
+2473,"Fondmetal Ford",1992,607,11
+2474,"Lotus Ford",1992,633,15
+2475,"Ligier Renault",1992,632,14
+2476,"Venturi Lamborghini",1992,620,15
+2477,"Tyrrell Ilmor",1992,618,15
+2478,"Minardi Lamborghini",1992,626,15
+2479,"Jordan Yamaha",1992,609,14
+2480,"Fondmetal Ford",1992,638,2
+2481,"Williams Renault",1992,532,16
+2482,"Lotus Ford",1992,621,15
+2483,"Ligier Renault",1992,578,15
+2484,"Benetton Ford",1992,593,16
+2485,"Tyrrell Ilmor",1992,561,16
+2486,"Fondmetal Ford",1992,635,2
+2487,"March Ilmor",1992,639,5
+2488,"Jordan Yamaha",1992,608,12
+2489,"Venturi Lamborghini",1992,640,14
+2490,"Brabham Judd",1992,641,2
+2491,"Brabham Judd",1992,635,1
+2492,"Moda Judd",1992,606,1
+2493,Ferrari,1992,603,2
+2494,"March Ilmor",1992,549,2
+2495,"Minardi Lamborghini",1992,630,1
+2496,"McLaren Ford",1993,587,16
+2497,"Williams Renault",1993,641,16
+2498,"Williams Renault",1993,555,16
+2499,"Lotus Ford",1993,621,16
+2500,"Benetton Ford",1993,532,15
+2501,"Minardi Ford",1993,642,7
+2502,"Minardi Ford",1993,636,14
+2503,"Lotus Ford",1993,630,11
+2504,"Larrousse Lamborghini",1993,632,14
+2505,"Jordan Hart",1993,643,14
+2506,"Lola Ferrari",1993,566,9
+2507,"Footwork Mugen Honda",1993,570,15
+2508,"Jordan Hart",1993,578,9
+2509,"Tyrrell Yamaha",1993,561,14
+2510,Ferrari,1993,616,16
+2511,"Footwork Mugen Honda",1993,615,15
+2512,"Larrousse Lamborghini",1993,586,14
+2513,"Benetton Ford",1993,629,16
+2514,"Ligier Renault",1993,631,15
+2515,Ferrari,1993,589,15
+2516,Sauber,1993,619,15
+2517,"Tyrrell Yamaha",1993,640,16
+2518,"Ligier Renault",1993,593,15
+2519,"McLaren Ford",1993,644,10
+2520,"Lola Ferrari",1993,645,12
+2521,Sauber,1993,634,15
+2522,"Minardi Ford",1993,594,8
+2523,"Jordan Hart",1993,592,1
+2524,"Lotus Ford",1993,646,3
+2525,"McLaren Ford",1993,633,3
+2526,"Jordan Hart",1993,639,1
+2527,"Jordan Hart",1993,647,2
+2528,"Larrousse Lamborghini",1993,648,2
+2529,"Minardi Ford",1993,649,2
+2530,"Benetton Ford",1994,629,12
+2531,"Williams Renault",1994,641,16
+2532,"McLaren Peugeot",1994,633,15
+2533,"Jordan Hart",1994,647,13
+2534,Ferrari,1994,589,16
+2535,"Sauber Mercedes",1994,650,15
+2536,"Tyrrell Yamaha",1994,640,16
+2537,"Ligier Renault",1994,621,1
+2538,"Ligier Renault",1994,651,15
+2539,Ferrari,1994,616,14
+2540,"Footwork Ford",1994,626,16
+2541,"Jordan Hart",1994,643,15
+2542,"Tyrrell Yamaha",1994,631,16
+2543,"Minardi Ford",1994,566,16
+2544,"Minardi Ford",1994,594,16
+2545,"Lotus Mugen Honda",1994,630,10
+2546,"Footwork Ford",1994,636,15
+2547,"Lotus Mugen Honda",1994,622,1
+2548,"Simtek Ford",1994,652,2
+2549,"Williams Renault",1994,558,4
+2550,"Simtek Ford",1994,625,16
+2551,"Sauber Mercedes",1994,561,9
+2552,"Larrousse Ford",1994,632,15
+2553,"Benetton Ford",1994,653,10
+2554,"Jordan Hart",1994,654,1
+2555,"McLaren Peugeot",1994,593,16
+2556,"Ligier Renault",1994,622,13
+2557,"Benetton Ford",1994,619,5
+2558,"Lotus Mugen Honda",1994,621,13
+2559,"Williams Renault",1994,655,8
+2560,"Pacific Ilmor",1994,620,5
+2561,"Pacific Ilmor",1994,637,2
+2562,"Larrousse Ford",1994,656,10
+2563,"Simtek Ford",1994,649,7
+2564,"Lotus Mugen Honda",1994,657,2
+2565,"Larrousse Ford",1994,586,1
+2566,"Sauber Mercedes",1994,634,3
+2567,"Lotus Mugen Honda",1994,646,3
+2568,"Williams Renault",1994,587,3
+2569,"McLaren Peugeot",1994,586,1
+2570,"Larrousse Ford",1994,605,2
+2571,"Jordan Hart",1994,561,2
+2572,"Lotus Mugen Honda",1994,658,2
+2573,"Ligier Renault",1994,659,2
+2574,"Benetton Ford",1994,621,2
+2575,"Simtek Ford",1994,660,1
+2576,"Larrousse Ford",1994,654,2
+2577,"Sauber Mercedes",1994,619,2
+2578,"Simtek Ford",1994,661,1
+2579,"Jordan Hart",1994,615,1
+2580,Ferrari,1994,603,2
+2581,"Larrousse Ford",1994,662,1
+2582,"Benetton Renault",1995,629,17
+2583,Ferrari,1995,616,17
+2584,"Williams Renault",1995,655,17
+2585,"Jordan Peugeot",1995,643,17
+2586,"Benetton Renault",1995,621,17
+2587,"Jordan Peugeot",1995,647,17
+2588,"Ligier Mugen Honda",1995,593,11
+2589,"McLaren Mercedes",1995,633,14
+2590,"Minardi Ford",1995,646,8
+2591,"Tyrrell Yamaha",1995,658,17
+2592,"Minardi Ford",1995,645,16
+2593,"Footwork Hart",1995,663,6
+2594,"Forti Ford",1995,664,17
+2595,"Tyrrell Yamaha",1995,607,1
+2596,"Pacific Ilmor",1995,662,2
+2597,"Williams Renault",1995,641,17
+2598,"Pacific Ilmor",1995,665,16
+2599,"Sauber Ford",1995,666,11
+2600,Ferrari,1995,589,17
+2601,"Forti Ford",1995,606,16
+2602,"Sauber Ford",1995,650,17
+2603,"Ligier Mugen Honda",1995,651,17
+2604,"McLaren Mercedes",1995,631,15
+2605,"Footwork Hart",1995,660,17
+2606,"Footwork Hart",1995,626,10
+2607,"Simtek Ford",1995,653,5
+2608,"Sauber Ford",1995,634,5
+2609,"Minardi Ford",1995,594,9
+2610,"Simtek Ford",1995,652,5
+2611,"Tyrrell Yamaha",1995,640,15
+2612,"Pacific Ilmor",1995,620,10
+2613,"McLaren Mercedes",1995,558,2
+2614,"Pacific Ilmor",1995,667,4
+2615,"Ligier Mugen Honda",1995,615,5
+2616,"McLaren Mercedes",1995,668,1
+2617,"Williams Renault",1996,669,16
+2618,Ferrari,1996,629,16
+2619,"McLaren Mercedes",1996,655,16
+2620,"Williams Renault",1996,641,16
+2621,"Jordan Peugeot",1996,643,16
+2622,"Jordan Peugeot",1996,593,16
+2623,"Sauber Ford",1996,621,14
+2624,"McLaren Mercedes",1996,633,16
+2625,"Benetton Renault",1996,589,16
+2626,"Ligier Mugen Honda",1996,664,16
+2627,"Footwork Hart",1996,670,16
+2628,"Minardi Ford",1996,646,16
+2629,"Minardi Ford",1996,671,8
+2630,"Sauber Ford",1996,650,16
+2631,"Footwork Hart",1996,653,16
+2632,"Ligier Mugen Honda",1996,651,16
+2633,Ferrari,1996,647,16
+2634,"Benetton Renault",1996,616,16
+2635,"Tyrrell Yamaha",1996,658,15
+2636,"Tyrrell Yamaha",1996,640,15
+2637,"Forti Ford",1996,665,4
+2638,"Minardi Ford",1996,672,2
+2639,"Forti Ford",1996,645,6
+2640,"Minardi Ford",1996,667,3
+2641,"McLaren Mercedes",1997,633,16
+2642,"McLaren Mercedes",1997,655,17
+2643,"Williams Renault",1997,669,16
+2644,"Benetton Renault",1997,589,14
+2645,Ferrari,1997,647,17
+2646,"Williams Renault",1997,650,17
+2647,"Prost Mugen Honda",1997,651,10
+2648,"Sauber Petronas",1997,621,17
+2649,"Stewart Ford",1997,668,16
+2650,"Prost Mugen Honda",1997,673,17
+2651,"Jordan Peugeot",1997,671,17
+2652,"Tyrrell Ford",1997,658,17
+2653,"Benetton Renault",1997,616,17
+2654,"Sauber Petronas",1997,674,4
+2655,"Minardi Hart",1997,672,8
+2656,"Tyrrell Ford",1997,653,17
+2657,"Minardi Hart",1997,640,17
+2658,Ferrari,1997,629,17
+2659,"Arrows Yamaha",1997,641,17
+2660,"Jordan Peugeot",1997,675,17
+2661,"Stewart Ford",1997,643,17
+2662,"Arrows Yamaha",1997,664,17
+2663,"Sauber Petronas",1997,626,7
+2664,"Minardi Hart",1997,676,7
+2665,"Prost Mugen Honda",1997,676,7
+2666,"Sauber Petronas",1997,603,5
+2667,"Benetton Renault",1997,677,3
+2668,"McLaren Mercedes",1998,633,16
+2669,"McLaren Mercedes",1998,655,16
+2670,Ferrari,1998,629,16
+2671,"Benetton Playlife",1998,677,16
+2672,"Stewart Ford",1998,643,15
+2673,"Williams Mecachrome",1998,669,16
+2674,"Sauber Petronas",1998,621,16
+2675,"Williams Mecachrome",1998,650,16
+2676,"Prost Peugeot",1998,676,16
+2677,"Sauber Petronas",1998,616,16
+2678,"Jordan Mugen Honda",1998,675,16
+2679,"Stewart Ford",1998,668,7
+2680,"Tyrrell Ford",1998,678,16
+2681,"Minardi Ford",1998,673,16
+2682,"Minardi Ford",1998,679,16
+2683,"Prost Peugeot",1998,651,15
+2684,"Jordan Mugen Honda",1998,641,15
+2685,Ferrari,1998,647,16
+2686,"Benetton Playlife",1998,671,16
+2687,Arrows,1998,658,15
+2688,Arrows,1998,664,16
+2689,"Stewart Ford",1998,653,9
+2690,"Tyrrell Ford",1998,670,10
+2691,"Stewart Ford",1999,621,15
+2692,"Prost Peugeot",1999,676,16
+2693,"Stewart Ford",1999,643,15
+2694,"Williams Supertec",1999,675,16
+2695,"McLaren Mercedes",1999,633,16
+2696,"Minardi Ford",1999,680,16
+2697,Ferrari,1999,647,16
+2698,"BAR Supertec",1999,681,12
+2699,"Prost Peugeot",1999,651,16
+2700,"BAR Supertec",1999,669,16
+2701,"Minardi Ford",1999,645,15
+2702,Arrows,1999,682,16
+2703,"Benetton Playlife",1999,671,16
+2704,Ferrari,1999,658,6
+2705,Arrows,1999,678,15
+2706,"McLaren Mercedes",1999,655,16
+2707,"Sauber Petronas",1999,616,16
+2708,"Jordan Mugen Honda",1999,650,16
+2709,"Williams Supertec",1999,630,16
+2710,"Jordan Mugen Honda",1999,641,16
+2711,"Benetton Playlife",1999,677,16
+2712,"Sauber Petronas",1999,664,16
+2713,Ferrari,1999,629,9
+2714,"BAR Supertec",1999,658,3
+2715,"Minardi Ford",1999,683,1
+2716,Ferrari,2000,629,17
+2717,"McLaren Mercedes",2000,633,17
+2718,"McLaren Mercedes",2000,655,16
+2719,Ferrari,2000,643,17
+2720,"Benetton Playlife",2000,671,17
+2721,"Arrows Supertec",2000,682,16
+2722,"Sauber Petronas",2000,664,16
+2723,"Minardi Fondmetal",2000,684,17
+2724,"Prost Peugeot",2000,616,17
+2725,"Williams BMW",2000,685,17
+2726,"Jaguar Cosworth",2000,621,17
+2727,"Benetton Playlife",2000,677,17
+2728,"BAR Honda",2000,681,17
+2729,"Minardi Fondmetal",2000,680,17
+2730,"BAR Honda",2000,669,17
+2731,"Jaguar Cosworth",2000,647,16
+2732,"Arrows Supertec",2000,653,17
+2733,"Williams BMW",2000,675,17
+2734,"Sauber Petronas",2000,658,15
+2735,"Jordan Mugen Honda",2000,650,17
+2736,"Jordan Mugen Honda",2000,676,17
+2737,"Prost Peugeot",2000,686,16
+2738,"Jaguar Cosworth",2000,687,1
+2739,Ferrari,2001,629,17
+2740,"Williams BMW",2001,688,17
+2741,"McLaren Mercedes",2001,655,17
+2742,"Williams BMW",2001,675,17
+2743,Ferrari,2001,643,17
+2744,"McLaren Mercedes",2001,633,17
+2745,"Jaguar Cosworth",2001,647,16
+2746,"Jaguar Cosworth",2001,682,13
+2747,"BAR Honda",2001,669,17
+2748,"Sauber Petronas",2001,689,16
+2749,"Benetton Renault",2001,671,17
+2750,"Prost Acer",2001,687,9
+2751,"Benetton Renault",2001,685,17
+2752,"Minardi European",2001,690,16
+2753,"Prost Acer",2001,616,12
+2754,"Arrows Asiatech",2001,653,17
+2755,"Sauber Petronas",2001,686,16
+2756,"Jordan Honda",2001,650,10
+2757,"Jordan Honda",2001,676,16
+2758,"Arrows Asiatech",2001,691,17
+2759,"BAR Honda",2001,651,17
+2760,"Minardi European",2001,672,13
+2761,"Jordan Honda",2001,616,5
+2762,"Prost Acer",2001,650,5
+2763,"Prost Acer",2001,684,4
+2764,"Jaguar Cosworth",2001,687,4
+2765,"Prost Acer",2001,692,3
+2766,"Minardi European",2001,693,3
+2767,"Jordan Honda",2001,681,2
+2768,Ferrari,2002,643,17
+2769,Ferrari,2002,629,17
+2770,"McLaren Mercedes",2002,689,17
+2771,"Williams BMW",2002,675,17
+2772,Renault,2002,685,17
+2773,"Sauber Petronas",2002,694,16
+2774,"Sauber Petronas",2002,686,17
+2775,Renault,2002,676,17
+2776,"BAR Honda",2002,651,17
+2777,"Arrows Cosworth",2002,691,10
+2778,"Jaguar Cosworth",2002,682,17
+2779,"BAR Honda",2002,669,17
+2780,"Arrows Cosworth",2002,650,10
+2781,Toyota,2002,695,16
+2782,"Minardi Asiatech",2002,696,16
+2783,"Jordan Honda",2002,697,17
+2784,Toyota,2002,658,17
+2785,"Minardi Asiatech",2002,693,11
+2786,"Jaguar Cosworth",2002,647,17
+2787,"Williams BMW",2002,688,17
+2788,"McLaren Mercedes",2002,655,17
+2789,"Jordan Honda",2002,671,16
+2790,"Minardi Asiatech",2002,698,2
+2791,"Sauber Petronas",2002,650,1
+2792,"Williams BMW",2003,675,15
+2793,"Williams BMW",2003,688,16
+2794,Ferrari,2003,643,16
+2795,Renault,2003,690,16
+2796,Ferrari,2003,629,16
+2797,"Jaguar Cosworth",2003,696,16
+2798,"BAR Honda",2003,685,15
+2799,"Sauber Petronas",2003,686,16
+2800,"Sauber Petronas",2003,650,16
+2801,"Jaguar Cosworth",2003,699,11
+2802,"Jordan Ford",2003,700,14
+2803,"Jordan Ford",2003,671,16
+2804,"Minardi Cosworth",2003,701,11
+2805,"Minardi Cosworth",2003,653,16
+2806,"McLaren Mercedes",2003,655,16
+2807,Toyota,2003,702,16
+2808,"BAR Honda",2003,669,15
+2809,Renault,2003,676,16
+2810,Toyota,2003,651,16
+2811,"McLaren Mercedes",2003,689,16
+2812,"Minardi Cosworth",2003,703,5
+2813,"Jaguar Cosworth",2003,701,5
+2814,"Jordan Ford",2003,704,2
+2815,"Williams BMW",2003,680,1
+2816,"BAR Honda",2003,697,1
+2817,Ferrari,2004,629,18
+2818,Ferrari,2004,643,18
+2819,"BAR Honda",2004,685,18
+2820,Renault,2004,676,15
+2821,Renault,2004,690,18
+2822,"Sauber Petronas",2004,671,18
+2823,"Jaguar Cosworth",2004,696,18
+2824,"Williams BMW",2004,688,16
+2825,"Sauber Petronas",2004,694,18
+2826,"Jordan Ford",2004,686,18
+2827,Toyota,2004,651,16
+2828,"Jaguar Cosworth",2004,705,18
+2829,"Jordan Ford",2004,706,14
+2830,"Minardi Cosworth",2004,707,18
+2831,"Minardi Cosworth",2004,704,18
+2832,"BAR Honda",2004,697,18
+2833,"McLaren Mercedes",2004,655,18
+2834,"McLaren Mercedes",2004,689,18
+2835,"Williams BMW",2004,675,11
+2836,Toyota,2004,702,11
+2837,Toyota,2004,681,5
+2838,"Williams BMW",2004,699,4
+2839,Renault,2004,669,3
+2840,Toyota,2004,676,2
+2841,"Jordan Ford",2004,708,4
+2842,"Williams BMW",2004,680,2
+2843,Renault,2005,690,19
+2844,"Williams BMW",2005,686,14
+2845,Ferrari,2005,643,19
+2846,"RBR Cosworth",2005,655,19
+2847,Ferrari,2005,629,19
+2848,Renault,2005,671,19
+2849,"McLaren Mercedes",2005,688,16
+2850,Toyota,2005,676,19
+2851,"RBR Cosworth",2005,709,4
+2852,"BAR Honda",2005,685,16
+2853,"McLaren Mercedes",2005,689,19
+2854,"BAR Honda",2005,697,14
+2855,"Sauber Petronas",2005,669,19
+2856,"Sauber Petronas",2005,694,19
+2857,"Jordan Toyota",2005,710,19
+2858,"Jordan Toyota",2005,711,19
+2859,"Minardi Cosworth",2005,712,19
+2860,"Minardi Cosworth",2005,713,11
+2861,Toyota,2005,675,18
+2862,"Williams BMW",2005,696,19
+2863,"RBR Cosworth",2005,705,15
+2864,"Minardi Cosworth",2005,714,8
+2865,"Williams BMW",2005,699,5
+2866,"BAR Honda",2005,698,1
+2867,"McLaren Mercedes",2005,682,1
+2868,"McLaren Mercedes",2005,677,1
+2869,Toyota,2005,681,1
+2870,Ferrari,2006,629,18
+2871,Renault,2006,690,18
+2872,Ferrari,2006,694,18
+2873,"McLaren Mercedes",2006,689,18
+2874,Honda,2006,643,18
+2875,Renault,2006,671,18
+2876,"Williams Cosworth",2006,715,18
+2877,"Sauber BMW",2006,669,12
+2878,Toyota,2006,676,18
+2879,"Sauber BMW",2006,686,18
+2880,"STR Cosworth",2006,716,18
+2881,"MF1 Toyota",2006,710,17
+2882,"MF1 Toyota",2006,712,17
+2883,Toyota,2006,675,18
+2884,"McLaren Mercedes",2006,688,10
+2885,"Super Aguri Honda",2006,697,17
+2886,"Super Aguri Honda",2006,717,7
+2887,Honda,2006,685,18
+2888,"RBR Ferrari",2006,705,15
+2889,"Williams Cosworth",2006,696,18
+2890,"RBR Ferrari",2006,655,18
+2891,"STR Cosworth",2006,709,18
+2892,"McLaren Mercedes",2006,682,8
+2893,"Sauber BMW",2006,718,5
+2894,"RBR Ferrari",2006,714,3
+2895,"Super Aguri Honda",2006,719,7
+2896,"Super Aguri Honda",2006,720,4
+2897,"McLaren Mercedes",2007,690,17
+2898,Ferrari,2007,694,16
+2899,"Red Bull Renault",2007,696,17
+2900,"Williams Toyota",2007,677,15
+2901,"Red Bull Renault",2007,655,17
+2902,"Sauber BMW",2007,686,17
+2903,"Sauber BMW",2007,718,16
+2904,Renault,2007,721,17
+2905,"McLaren Mercedes",2007,722,17
+2906,Renault,2007,671,16
+2907,Honda,2007,643,17
+2908,"Super Aguri Honda",2007,698,17
+2909,Toyota,2007,676,17
+2910,Ferrari,2007,689,17
+2911,"Super Aguri Honda",2007,697,17
+2912,Toyota,2007,675,17
+2913,"Spyker Ferrari",2007,723,1
+2914,Honda,2007,685,17
+2915,"Spyker Ferrari",2007,724,17
+2916,"Williams Toyota",2007,715,17
+2917,"STR Ferrari",2007,716,10
+2918,"STR Ferrari",2007,709,17
+2919,"Spyker Ferrari",2007,712,9
+2920,"Spyker Ferrari",2007,719,7
+2921,"STR Ferrari",2007,725,7
+2922,"Williams Toyota",2007,726,1
+2923,"Sauber BMW",2007,725,1
+2924,Ferrari,2008,694,18
+2925,"McLaren Mercedes",2008,722,18
+2926,"Sauber BMW",2008,718,18
+2927,"McLaren Mercedes",2008,721,18
+2928,Toyota,2008,676,18
+2929,"STR Ferrari",2008,725,18
+2930,Toyota,2008,708,18
+2931,"Williams Toyota",2008,715,18
+2932,"Sauber BMW",2008,686,18
+2933,"STR Ferrari",2008,727,18
+2934,Renault,2008,728,18
+2935,"Red Bull Renault",2008,696,18
+2936,Honda,2008,685,18
+2937,"Force India Ferrari",2008,671,18
+2938,"Williams Toyota",2008,726,18
+2939,Honda,2008,643,17
+2940,"Red Bull Renault",2008,655,18
+2941,Ferrari,2008,689,18
+2942,"Force India Ferrari",2008,724,18
+2943,Renault,2008,690,18
+2944,"Super Aguri Honda",2008,697,4
+2945,"Super Aguri Honda",2008,698,4
+2946,"Brawn Mercedes",2009,643,17
+2947,"McLaren Mercedes",2009,722,17
+2948,Ferrari,2009,689,17
+2949,"McLaren Mercedes",2009,721,17
+2950,"Williams Toyota",2009,715,17
+2951,Renault,2009,690,17
+2952,"Brawn Mercedes",2009,685,17
+2953,"Sauber BMW",2009,718,17
+2954,"RBR Renault",2009,696,17
+2955,"Force India Mercedes",2009,724,17
+2956,"Sauber BMW",2009,686,17
+2957,"Force India Mercedes",2009,671,12
+2958,Toyota,2009,676,17
+2959,Toyota,2009,708,14
+2960,Renault,2009,729,7
+2961,"STR Ferrari",2009,730,8
+2962,Ferrari,2009,645,2
+2963,"Williams Toyota",2009,726,17
+2964,"STR Ferrari",2009,731,17
+2965,"RBR Renault",2009,725,17
+2966,Ferrari,2009,694,9
+2967,Renault,2009,728,10
+2968,"STR Ferrari",2009,727,9
+2969,Toyota,2009,732,2
+2970,Ferrari,2009,671,5
+2971,"Force India Mercedes",2009,709,5
+2972,"RBR Renault",2010,725,19
+2973,"McLaren Mercedes",2010,722,19
+2974,"McLaren Mercedes",2010,685,19
+2975,"Williams Cosworth",2010,643,19
+2976,Renault,2010,718,19
+2977,"Force India Mercedes",2010,724,19
+2978,"Sauber Ferrari",2010,732,19
+2979,Ferrari,2010,690,19
+2980,"STR Ferrari",2010,731,19
+2981,Mercedes,2010,715,19
+2982,Ferrari,2010,694,19
+2983,"Sauber Ferrari",2010,682,14
+2984,"STR Ferrari",2010,730,19
+2985,Renault,2010,733,19
+2986,Mercedes,2010,629,19
+2987,"Force India Mercedes",2010,709,19
+2988,"Virgin Cosworth",2010,734,19
+2989,"HRT Cosworth",2010,735,10
+2990,"Virgin Cosworth",2010,708,19
+2991,"HRT Cosworth",2010,736,18
+2992,"Lotus Cosworth",2010,676,19
+2993,"Williams Cosworth",2010,737,19
+2994,"Lotus Cosworth",2010,721,19
+2995,"RBR Renault",2010,696,19
+2996,"HRT Cosworth",2010,719,7
+2997,"Sauber Ferrari",2010,686,5
+2998,"HRT Cosworth",2010,705,3
+2999,"Red Bull Racing Renault",2011,725,19
+3000,Ferrari,2011,690,19
+3001,"Red Bull Racing Renault",2011,696,19
+3002,"McLaren Mercedes",2011,722,19
+3003,Ferrari,2011,694,19
+3004,"McLaren Mercedes",2011,685,19
+3005,Mercedes,2011,715,19
+3006,"STR Ferrari",2011,730,19
+3007,"Force India Mercedes",2011,724,19
+3008,Renault,2011,686,11
+3009,"Sauber Ferrari",2011,738,17
+3010,"Williams Cosworth",2011,643,19
+3011,"STR Ferrari",2011,731,19
+3012,"Force India Mercedes",2011,739,19
+3013,Renault,2011,733,19
+3014,"Sauber Ferrari",2011,732,19
+3015,Mercedes,2011,629,19
+3016,"Williams Cosworth",2011,740,19
+3017,"Lotus Renault",2011,721,19
+3018,"Lotus Renault",2011,676,18
+3019,"Virgin Cosworth",2011,708,19
+3020,"Virgin Cosworth",2011,741,19
+3021,"HRT Cosworth",2011,709,17
+3022,"HRT Cosworth",2011,711,8
+3023,Renault,2011,736,8
+3024,"HRT Cosworth",2011,742,11
+3025,"Lotus Renault",2011,735,1
+3026,"Sauber Ferrari",2011,682,1
+3027,Ferrari,2012,690,20
+3028,"Lotus Renault",2012,689,20
+3029,Mercedes,2012,629,20
+3030,"Red Bull Racing Renault",2012,696,20
+3031,"Force India Mercedes",2012,737,20
+3032,Mercedes,2012,715,20
+3033,"Force India Mercedes",2012,739,20
+3034,"McLaren Mercedes",2012,685,20
+3035,"Sauber Ferrari",2012,738,20
+3036,"Williams Renault",2012,736,20
+3037,"STR Ferrari",2012,742,20
+3038,"Williams Renault",2012,740,20
+3039,"Caterham Renault",2012,733,20
+3040,"Caterham Renault",2012,721,20
+3041,"Marussia Cosworth",2012,743,20
+3042,Ferrari,2012,694,20
+3043,"HRT Cosworth",2012,682,19
+3044,"HRT Cosworth",2012,711,19
+3045,"McLaren Mercedes",2012,722,20
+3046,"Lotus Renault",2012,729,19
+3047,"Red Bull Racing Renault",2012,725,20
+3048,"Sauber Ferrari",2012,732,20
+3049,"STR Ferrari",2012,744,20
+3050,"Marussia Cosworth",2012,708,19
+3051,"Lotus Renault",2012,741,1
+3052,Ferrari,2013,690,19
+3053,"Lotus Renault",2013,689,17
+3054,Ferrari,2013,694,19
+3055,"Red Bull Racing Renault",2013,725,19
+3056,"Red Bull Racing Renault",2013,696,19
+3057,Mercedes,2013,715,19
+3058,"Force India Mercedes",2013,739,19
+3059,"McLaren Mercedes",2013,685,19
+3060,"McLaren Mercedes",2013,738,19
+3061,"STR Ferrari",2013,742,19
+3062,"Sauber Ferrari",2013,745,19
+3063,Mercedes,2013,722,19
+3064,"Force India Mercedes",2013,724,19
+3065,"Williams Renault",2013,740,19
+3066,"Sauber Ferrari",2013,737,19
+3067,"Williams Renault",2013,746,19
+3068,"Caterham Renault",2013,743,19
+3069,"Marussia Cosworth",2013,747,19
+3070,"Marussia Cosworth",2013,748,19
+3071,"STR Ferrari",2013,744,19
+3072,"Caterham Renault",2013,749,19
+3073,"Lotus Renault",2013,729,19
+3074,"Lotus Renault",2013,721,2
+3075,Mercedes,2014,722,19
+3076,Mercedes,2014,715,19
+3077,"Red Bull Racing Renault",2014,742,19
+3078,"Red Bull Racing Renault",2014,725,19
+3079,"Williams Mercedes",2014,746,19
+3080,Ferrari,2014,690,19
+3081,Ferrari,2014,689,19
+3082,"Lotus Renault",2014,729,19
+3083,"Force India Mercedes",2014,738,19
+3084,"Force India Mercedes",2014,737,19
+3085,"McLaren Mercedes",2014,685,19
+3086,"McLaren Mercedes",2014,750,19
+3087,"Williams Mercedes",2014,694,19
+3088,"STR Renault",2014,751,19
+3089,"Lotus Renault",2014,740,19
+3090,"Sauber Ferrari",2014,745,19
+3091,"Sauber Ferrari",2014,724,19
+3092,"Marussia Ferrari",2014,747,15
+3093,"Marussia Ferrari",2014,748,16
+3094,"Caterham Renault",2014,752,16
+3095,"Caterham Renault",2014,732,16
+3096,"STR Renault",2014,744,19
+3097,"Caterham Renault",2014,753,1
+3098,"Caterham Renault",2014,754,1
+3099,Mercedes,2015,715,19
+3100,Mercedes,2015,722,19
+3101,Ferrari,2015,725,19
+3102,"Williams Mercedes",2015,746,18
+3103,Ferrari,2015,689,19
+3104,"Williams Mercedes",2015,694,19
+3105,"Red Bull Racing Renault",2015,742,19
+3106,"Lotus Mercedes",2015,729,19
+3107,"STR Renault",2015,755,19
+3108,"Red Bull Racing Renault",2015,751,19
+3109,"STR Renault",2015,756,19
+3110,"Sauber Ferrari",2015,757,19
+3111,"Force India Mercedes",2015,738,19
+3112,"Sauber Ferrari",2015,752,19
+3113,"Force India Mercedes",2015,737,19
+3114,"McLaren Honda",2015,685,19
+3115,"Marussia Ferrari",2015,754,17
+3116,"Marussia Ferrari",2015,758,13
+3117,"Lotus Mercedes",2015,740,19
+3118,"McLaren Honda",2015,690,18
+3119,"Marussia Ferrari",2015,759,5
+3120,"McLaren Honda",2015,750,1
+3121,"Red Bull Racing TAG Heuer",2016,756,17
+3122,Ferrari,2016,689,21
+3123,Ferrari,2016,725,21
+3124,"Red Bull Racing TAG Heuer",2016,742,21
+3125,"Williams Mercedes",2016,746,21
+3126,"Toro Rosso Ferrari",2016,755,21
+3127,"Force India Mercedes",2016,738,21
+3128,"Williams Mercedes",2016,694,21
+3129,"McLaren Honda",2016,685,21
+3130,"Toro Rosso Ferrari",2016,751,17
+3131,"Haas Ferrari",2016,745,21
+3132,"Sauber Ferrari",2016,752,21
+3133,Renault,2016,760,21
+3134,"Sauber Ferrari",2016,757,21
+3135,Renault,2016,750,21
+3136,"MRT Mercedes",2016,761,21
+3137,"MRT Mercedes",2016,762,12
+3138,"Haas Ferrari",2016,729,21
+3139,"McLaren Honda",2016,690,20
+3140,"Force India Mercedes",2016,737,21
+3141,Mercedes,2016,722,21
+3142,Mercedes,2016,715,21
+3143,"MRT Mercedes",2016,763,9
+3144,"Red Bull Racing TAG Heuer",2016,751,4
+3145,"Toro Rosso Ferrari",2016,756,4
+3146,"McLaren Honda",2016,764,1
+3147,Mercedes,2017,722,20
+3148,Ferrari,2017,725,20
+3149,"Red Bull Racing TAG Heuer",2017,742,20
+3150,"Force India Mercedes",2017,738,20
+3151,"Force India Mercedes",2017,763,20
+3152,Renault,2017,737,20
+3153,"Toro Rosso",2017,755,16
+3154,"Sauber Ferrari",2017,761,18
+3155,"Toro Rosso",2017,751,15
+3156,"Haas Ferrari",2017,729,20
+3157,"Sauber Ferrari",2017,752,20
+3158,"McLaren Honda",2017,690,19
+3159,"Williams Mercedes",2017,694,19
+3160,"Haas Ferrari",2017,750,20
+3161,Renault,2017,760,16
+3162,"Williams Mercedes",2017,765,20
+3163,Mercedes,2017,746,20
+3164,"McLaren Honda",2017,764,20
+3165,"Red Bull Racing TAG Heuer",2017,756,20
+3166,Ferrari,2017,689,20
+3167,Renault,2017,755,4
+3168,"Toro Rosso",2017,766,5
+3169,"Toro Rosso",2017,767,4
+3170,"Williams Mercedes",2017,739,1
+3171,"McLaren Honda",2017,685,1
+3172,"Sauber Ferrari",2017,768,2
+3173,Mercedes,2018,722,21
+3174,Mercedes,2018,746,21
+3175,"Red Bull Racing TAG Heuer",2018,756,21
+3176,Ferrari,2018,725,21
+3177,"Red Bull Racing TAG Heuer",2018,742,21
+3178,"Haas Ferrari",2018,750,21
+3179,Renault,2018,755,21
+3180,"McLaren Renault",2018,690,21
+3181,"Force India Mercedes",2018,738,21
+3182,"Sauber Ferrari",2018,769,21
+3183,"Williams Mercedes",2018,765,21
+3184,"Scuderia Toro Rosso Honda",2018,767,21
+3185,"Sauber Ferrari",2018,752,21
+3186,"Williams Mercedes",2018,770,21
+3187,"McLaren Renault",2018,764,21
+3188,"Force India Mercedes",2018,763,21
+3189,Ferrari,2018,689,21
+3190,"Haas Ferrari",2018,729,21
+3191,"Scuderia Toro Rosso Honda",2018,766,21
+3192,Renault,2018,737,21
+3193,Mercedes,2019,722,21
+3194,Mercedes,2019,746,21
+3195,"Red Bull Racing Honda",2019,756,21
+3196,Ferrari,2019,725,21
+3197,Ferrari,2019,769,21
+3198,"Red Bull Racing Honda",2019,766,12
+3199,"Haas Ferrari",2019,750,21
+3200,"McLaren Renault",2019,755,21
+3201,"Scuderia Toro Rosso Honda",2019,751,21
+3202,"Haas Ferrari",2019,729,21
+3203,"Scuderia Toro Rosso Honda",2019,771,12
+3204,Renault,2019,742,21
+3205,Renault,2019,737,21
+3206,"Alfa Romeo Racing Ferrari",2019,689,21
+3207,"Racing Point BWT Mercedes",2019,738,21
+3208,"Alfa Romeo Racing Ferrari",2019,768,21
+3209,"Williams Mercedes",2019,772,21
+3210,"Williams Mercedes",2019,718,21
+3211,"Racing Point BWT Mercedes",2019,765,21
+3212,"McLaren Renault",2019,773,21
+3213,"Red Bull Racing Honda",2019,771,9
+3214,"Scuderia Toro Rosso Honda",2019,766,9
+3215,Mercedes,2020,722,16
+3216,"Red Bull Racing Honda",2020,756,17
+3217,Mercedes,2020,746,17
+3218,"Racing Point BWT Mercedes",2020,765,16
+3219,"Racing Point BWT Mercedes",2020,738,15
+3220,"McLaren Renault",2020,755,17
+3221,Ferrari,2020,725,17
+3222,"Red Bull Racing Honda",2020,771,17
+3223,"AlphaTauri Honda",2020,766,17
+3224,"McLaren Renault",2020,773,17
+3225,Renault,2020,742,17
+3226,"AlphaTauri Honda",2020,751,17
+3227,Renault,2020,763,17
+3228,"Alfa Romeo Racing Ferrari",2020,689,17
+3229,"Haas Ferrari",2020,750,17
+3230,"Alfa Romeo Racing Ferrari",2020,768,17
+3231,"Williams Mercedes",2020,772,16
+3232,"Williams Mercedes",2020,774,17
+3233,"Haas Ferrari",2020,729,15
+3234,Ferrari,2020,769,17
+3235,"Racing Point BWT Mercedes",2020,737,3
+3236,Mercedes,2020,772,1
+3237,"Williams Mercedes",2020,775,1
+3238,"Haas Ferrari",2020,776,2
+3239,Mercedes,2021,722,22
+3240,"Red Bull Racing Honda",2021,756,22
+3241,Mercedes,2021,746,22
+3242,Ferrari,2021,769,22
+3243,"Red Bull Racing Honda",2021,738,22
+3244,"McLaren Mercedes",2021,742,22
+3245,Ferrari,2021,755,22
+3246,"McLaren Mercedes",2021,773,22
+3247,"Alpine Renault",2021,763,22
+3248,"AlphaTauri Honda",2021,766,22
+3249,"Aston Martin Mercedes",2021,765,22
+3250,"Alfa Romeo Racing Ferrari",2021,689,20
+3251,"Aston Martin Mercedes",2021,725,22
+3252,"Williams Mercedes",2021,772,22
+3253,"Alfa Romeo Racing Ferrari",2021,768,22
+3254,"Williams Mercedes",2021,774,22
+3255,"Alpine Renault",2021,690,22
+3256,"Haas Ferrari",2021,777,22
+3257,"Haas Ferrari",2021,778,22
+3258,"AlphaTauri Honda",2021,779,22
+3259,"Alfa Romeo Racing Ferrari",2021,718,2
